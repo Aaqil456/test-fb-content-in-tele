@@ -21,23 +21,29 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "x-goog-api-key": GEMINI_API_KEY,  # <-- use header, not ?key=
     }
 
-    prompt = (
-        "Translate this text into Malay.\n\n"
-        "Only return the translated text without any explanation.\n"
-        "Use natural, conversational, friendly Malaysian Malay — like how a friend shares info.\n"
-        "Keep it simple, relaxed, and easy to understand.\n"
-        "Avoid exaggerated slang or interjections (e.g., 'Eh', 'Korang', 'Woi', 'Wooohooo').\n"
-        "No shouting words or unnecessary excitement.\n"
-        "Keep it informative, approachable, and casual — but clean and neutral.\n"
-        "Do not use emojis unless they appear in the original text.\n"
-        "for spesific word which is Market Events translate it into Update Pasaran \n"
-        "for spesific word which is Top Mindshare Gainers translate it into Projek Crypto Viral Hari Ini \n"
-        "for spesific word which is ref translate it into sumber, for example ref0, ref1  ref2 is SUMBER: 0 1 2  \n"
-        "which mean for spesific word which is ref translate it into sumber, the hyperlink is in each number after the word SUMBER  \n"
-        "remove any words that have sources and link mostly the one where it says from where this post is. I don't need any of that. again not only the link the words also \n"
-        "Do not translate brand names or product names.\n\n"
-        f"Text:\n{text}"
-    )
+ prompt = (
+    "Translate the following text into natural, conversational Malaysian Malay.\n\n"
+    
+    "### TONE & STYLE:\n"
+    "- Use a friendly, relaxed, and 'santai' tone, like a friend sharing info.\n"
+    "- Keep it simple and easy to understand.\n"
+    "- Avoid exaggerated slang or interjections (No 'Eh', 'Korang', 'Woi', 'Wooohooo').\n"
+    "- Maintain a clean, neutral, and informative vibe without unnecessary excitement.\n\n"
+    
+    "### KEY TERMINOLOGY:\n"
+    "- 'Market Events' -> 'Update Pasaran'\n"
+    "- 'Top Mindshare Gainers' -> 'Projek Crypto Viral Hari Ini'\n"
+    "- Do not translate brand names or product names.\n\n"
+
+    "### LINK & SOURCE HANDLING (CRITICAL):\n"
+    "- STRICTLY REMOVE all external source attributions, URLs, and phrases mentioning where the post originated (e.g., delete lines like 'Source: [Link]', 'Originally from...', 'Read more at...').\n"
+    "- The ONLY exception is 'ref' tags. Translate 'ref0, ref1, ref2' into the format 'SUMBER: 0 1 2' while preserving their original hyperlinks.\n\n"
+
+    "### OUTPUT RULES:\n"
+    "- Return ONLY the translated text.\n"
+    "- No explanations, no introductory text, and no emojis (unless they are in the original text).\n\n"
+    f"Text:\n{text}"
+)
 
     payload = {
         "contents": [
