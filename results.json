@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-19T12:37:14.764879",
+    "timestamp": "2026-04-19T16:58:05.407184",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -30,6 +30,31 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**ZRO/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**211K ZRO** have been bought\n\ud83d\udcb0Price: 1.52 USDT (**-9.15%**)\n\ud83d\udea8Order Size: **317,604 USDT** (**5.00%**)\n\u23f3Duration: **12 minutes**\n\ud83d\udcca24h Vol: **6.35M** USDT",
             "date": "2026-04-19 02:54:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 3x DUMP #BOME from 0.000642 to 0.000592 USDT  = -7.79 %",
+            "date": "2026-04-19 16:45:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 19/04/2026 23:40:45\n\ud83d\udcc8 **Total Coins:** 568\n\ud83d\udcca **Average Rate:** `-0.0083%`\n\n\ud83d\udfe2 **Positive Funding:** 362\n\ud83d\udd34 **Negative Funding:** 206\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #DENTUSDT: `0.2133%`\n  2. #DEGOUSDT: `0.1163%`\n  3. #BULLAUSDT: `0.1104%`\n  4. #AGTUSDT: `0.0914%`\n  5. #GUAUSDT: `0.0891%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #KERNELUSDT: `-0.9569%`\n  2. #ENJUSDT: `-0.6361%`\n  3. #PHBUSDT: `-0.511%`\n  4. #HIGHUSDT: `-0.4618%`\n  5. #BLURUSDT: `-0.4099%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-19 16:40:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$DYM****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/DYM_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DYMUSDT)]",
+            "date": "2026-04-19 16:55:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$KITE****/USDT (30m)** Oversold level reached\nRSI: 29.65 | [Binance](https://www.binance.com/en/trade/KITE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KITEUSDT)",
+            "date": "2026-04-19 16:54:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**DOGS/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.79B DOGS** have been bought\n\ud83d\udcb0Price: 0.0000414 USDT (**26.61%**)\n\ud83d\udea8Order Size: **62,629 USDT** (**5.00%**)\n\u23f3Duration: **4 minutes**\n\ud83d\udcca24h Vol: **1.25M** USDT",
+            "date": "2026-04-19 16:02:16+00:00"
         }
     ]
 }
