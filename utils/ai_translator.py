@@ -36,7 +36,9 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "- Do not translate brand names or product names.\n\n"
     
         "### LINK & SOURCE HANDLING (CRITICAL):\n"
-        "- STRICTLY REMOVE all external source attributions, URLs, and phrases mentioning where the post originated (e.g., delete lines like 'Source: [Link]', 'Originally from...', 'Read more at...').\n"
+        "- STRICTLY REMOVE all platform tags and source links (e.g., delete '[Binance | TV]', 'Binance | TradingView', or any similar platform labels).\n"
+        "- PURGE all call-to-action phrases and navigation links such as '**Akses Indikator**', 'Read more', or 'Source: [Link]'.\n"
+        "- REMOVE any phrases mentioning where the post originated (e.g., 'Originally from...', 'Posted by...').\n"
         "- The ONLY exception is 'ref' tags. Translate 'ref0, ref1, ref2' into the format 'SUMBER: 0 1 2' while preserving their original hyperlinks.\n\n"
     
         "### OUTPUT RULES:\n"
