@@ -21,7 +21,7 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "x-goog-api-key": GEMINI_API_KEY,  # <-- use header, not ?key=
     }
 
-     prompt = (
+    prompt = (
         "Translate the following text into natural, conversational Malaysian Malay.\n\n"
     
         "### TONE & STYLE:\n"
