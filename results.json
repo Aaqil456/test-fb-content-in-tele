@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-19T23:22:47.818192",
+    "timestamp": "2026-04-19T23:57:08.816967",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -190,6 +190,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$BNB****/BTC (30m)** Overbought level reached\nRSI: 70.18 | [Binance](https://www.binance.com/en/trade/BNB_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BNBBTC)",
             "date": "2026-04-19 23:22:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 3x DUMP #HIGH from 0.279 to 0.259 USDT  = -7.17 %",
+            "date": "2026-04-19 23:36:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SAGA****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/SAGA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SAGAUSDT)]",
+            "date": "2026-04-19 23:40:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RONIN****/USDT (30m)** Oversold level reached\nRSI: 28.56 | [Binance](https://www.binance.com/en/trade/RONIN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RONINUSDT)",
+            "date": "2026-04-19 23:45:28+00:00"
         }
     ]
 }
