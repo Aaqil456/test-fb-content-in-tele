@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-19T22:48:47.821936",
+    "timestamp": "2026-04-19T23:22:47.818192",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -175,6 +175,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$GUN****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.25 | [Binance](https://www.binance.com/en/trade/GUN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:GUNUSDT)",
             "date": "2026-04-19 22:32:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #PIVX from 0.0819 to 0.076 USDT  = -7.2 %",
+            "date": "2026-04-19 23:18:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SUPER****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/SUPER_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SUPERUSDT)]",
+            "date": "2026-04-19 23:22:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BNB****/BTC (30m)** Overbought level reached\nRSI: 70.18 | [Binance](https://www.binance.com/en/trade/BNB_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BNBBTC)",
+            "date": "2026-04-19 23:22:21+00:00"
         }
     ]
 }
