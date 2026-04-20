@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-19T23:57:08.816967",
+    "timestamp": "2026-04-20T02:10:28.133117",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -205,6 +205,31 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$RONIN****/USDT (30m)** Oversold level reached\nRSI: 28.56 | [Binance](https://www.binance.com/en/trade/RONIN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RONINUSDT)",
             "date": "2026-04-19 23:45:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #HIGH from 0.304 to 0.282 USDT  = -7.24 %",
+            "date": "2026-04-20 01:51:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 20/04/2026 07:40:45\n\ud83d\udcc8 **Total Coins:** 565\n\ud83d\udcca **Average Rate:** `-0.0072%`\n\n\ud83d\udfe2 **Positive Funding:** 403\n\ud83d\udd34 **Negative Funding:** 162\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #DENTUSDT: `0.1949%`\n  2. #GUAUSDT: `0.18%`\n  3. #BULLAUSDT: `0.1561%`\n  4. #SKYAIUSDT: `0.1043%`\n  5. #PIEVERSEUSDT: `0.0994%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #KERNELUSDT: `-0.9168%`\n  2. #HOODUSDT: `-0.8997%`\n  3. #TSLAUSDT: `-0.51%`\n  4. #INTCUSDT: `-0.4628%`\n  5. #BLURUSDT: `-0.3581%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-20 00:41:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$XAI****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/XAI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:XAIUSDT)]",
+            "date": "2026-04-20 02:00:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PLUME****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.07 | [Binance](https://www.binance.com/en/trade/PLUME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PLUMEUSDT)",
+            "date": "2026-04-20 02:00:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**KNC/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**102.06K KNC** have been bought\n\ud83d\udcb0Price: 0.137 USDT (**0.81%**)\n\ud83d\udea8Order Size: **14,045 USDT** (**5.23%**)\n\u23f3Duration: **5 minutes**\n\ud83d\udcca24h Vol: **268.6K** USDT",
+            "date": "2026-04-20 00:23:36+00:00"
         }
     ]
 }
