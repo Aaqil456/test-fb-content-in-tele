@@ -6,7 +6,7 @@ import requests
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # Menggunakan 1.5-flash untuk kestabilan rate limit yang lebih baik pada akaun percuma
-GEMINI_MODEL = "gemini-2.5-flash" 
+GEMINI_MODEL = "gemini-1.5-flash" 
 
 def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
     """
@@ -54,7 +54,7 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
             
             # Jika terkena Rate Limit (429)
             if resp.status_code == 429:
-                wait_time = 60  # Tunggu 1 minit penuh jika kena block
+                wait_time = 80  # Tunggu 1 minit penuh jika kena block
                 print(f"[Warning] HTTP 429 (Rate Limit). Rehat {wait_time}s sebelum cuba balik...")
                 time.sleep(wait_time)
                 continue 
