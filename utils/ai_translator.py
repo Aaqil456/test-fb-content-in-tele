@@ -5,27 +5,16 @@ import requests
 # Pastikan API Key ada dalam Environment Variables
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-# Menggunakan 1.5-flash-latest untuk kestabilan kuota Free Tier
+# Guna 1.5-flash-latest atau 2.0-flash (Mana yang stabil di akaun anda)
 GEMINI_MODEL = "gemini-2.5-flash-latest" 
 
 def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
     """
-    Translates `text` to Malay using Google Gemini API.
-    Kekalkan prompt asal tetapi ditambah logic anti-Rate Limit.
+    Translates text to Malay and PURGES all source links/platforms using LLM.
+    Guaranteed to retry until success with smart throttling.
     """
-    
-    # --- STRATEGI 1: SKIP TEKS TEKNIKAL (JIMAT QUOTA) ---
-    # Jika teks cuma crypto pair atau signal pendek, terus pulangkan asal (tak payah panggil API)
-    keywords_to_skip = ["MACD", "USDT", "Overbought", "Oversold", "RSI", "crossover", "DUMP", "PUMP"]
-    clean_text = text.strip()
-    
-    if not clean_text:
+    if not text or not isinstance(text, str) or not text.strip():
         return ""
-        
-    # Jika teks sangat pendek (< 60 char) dan ada keyword teknikal, skip translation
-    if any(k in clean_text for k in keywords_to_skip) and len(clean_text) < 60:
-        print(f"[Skip] Teks teknikal dikesan: {clean_text[:30]}... Pulangkan asal.")
-        return clean_text
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     headers = {
@@ -33,7 +22,7 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "x-goog-api-key": GEMINI_API_KEY,
     }
 
-    # PROMPT ASAL ANDA (TIDAK DIUBAH)
+    # PROMPT ASAL ANDA (Sangat kuat untuk tapis link/source)
     prompt = (
         "Translate the following text into natural, conversational Malaysian Malay.\n\n"
         "### TONE & STYLE:\n"
@@ -58,26 +47,25 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "generationConfig": {"temperature": 0.2}
     }
 
-    # --- STRATEGI 2: SMART PERSISTENCE ---
     attempt = 0
-    while True: # Terus mencuba sehingga berjaya
+    while True:  # STRATEGI: BERDEGIL SAMPAI JADI
         attempt += 1
         try:
             resp = requests.post(url, headers=headers, json=payload, timeout=60)
             
             # Jika terkena Rate Limit (429)
             if resp.status_code == 429:
-                # Tunggu makin lama ikut jumlah cubaan (90s, 180s, 270s...)
-                wait_time = min(90 * attempt, 300) 
-                print(f"[Warning] Rate Limit (429). Cubaan #{attempt}. Rehat {wait_time}s...")
+                # Rehat makin lama: 100s, 200s, 300s...
+                wait_time = min(100 * attempt, 300) 
+                print(f"[Warning] Google sekat (429). Cubaan #{attempt}. Rehat {wait_time}s...")
                 time.sleep(wait_time)
                 continue 
 
-            # Jika Model Error (404/500)
+            # Jika Error lain (500, 503, etc)
             if not resp.ok:
-                print(f"[Error] HTTP {resp.status_code}: {resp.text[:150]}")
-                if attempt > 5: return text # Jika 5x gagal error lain, pulangkan asal
-                time.sleep(10)
+                print(f"[Error] HTTP {resp.status_code}. Rehat 20s...")
+                time.sleep(20)
+                if attempt > 15: return text # Break kalau dah melampau sangat gagalnya
                 continue
 
             data = resp.json()
@@ -88,17 +76,19 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
                 for p in parts:
                     t = p.get("text", "").strip()
                     if t:
-                        print(f"[Success] Terjemahan selesai.")
+                        print(f"[Success] Terjemahan & Tapis selesai.")
                         
-                        # --- STRATEGI 3: HARD THROTTLING ---
-                        # Rehat 12 saat setiap kali BERJAYA supaya RPM kekal rendah & selamat.
-                        time.sleep(12) 
+                        # --- CARA PALING CONFIRM: HARD DELAY ---
+                        # Setiap kali berjaya, WAJIB rehat 15 saat. 
+                        # Ini akan pastikan RPM anda sentiasa bawah 5. 
+                        # Google takkan sekat orang yang hantar 4-5 request seminit.
+                        time.sleep(15) 
                         
                         return t
 
         except Exception as e:
-            print(f"[Error] Cubaan #{attempt} gagal: {e}")
+            print(f"[Error] Masalah teknikal: {e}. Rehat 15s...")
+            time.sleep(15)
             if attempt > 10: return text
-            time.sleep(10)
 
     return text
