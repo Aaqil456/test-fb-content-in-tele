@@ -5,17 +5,27 @@ import requests
 # Pastikan API Key ada dalam Environment Variables
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-# Menggunakan 1.5-flash untuk kestabilan rate limit yang lebih baik pada akaun percuma
-GEMINI_MODEL = "gemini-2.5-flash" 
+# Menggunakan 1.5-flash-latest untuk kestabilan kuota Free Tier
+GEMINI_MODEL = "gemini-1.5-flash-latest" 
 
 def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
     """
     Translates `text` to Malay using Google Gemini API.
-    Implemented with Throttling & 429 Handling to prevent Rate Limits.
+    Kekalkan prompt asal tetapi ditambah logic anti-Rate Limit.
     """
-    if not text or not isinstance(text, str) or not text.strip():
-        print(f"[Warning] Teks kosong atau tidak sah diterima.")
+    
+    # --- STRATEGI 1: SKIP TEKS TEKNIKAL (JIMAT QUOTA) ---
+    # Jika teks cuma crypto pair atau signal pendek, terus pulangkan asal (tak payah panggil API)
+    keywords_to_skip = ["MACD", "USDT", "Overbought", "Oversold", "RSI", "crossover", "DUMP", "PUMP"]
+    clean_text = text.strip()
+    
+    if not clean_text:
         return ""
+        
+    # Jika teks sangat pendek (< 60 char) dan ada keyword teknikal, skip translation
+    if any(k in clean_text for k in keywords_to_skip) and len(clean_text) < 60:
+        print(f"[Skip] Teks teknikal dikesan: {clean_text[:30]}... Pulangkan asal.")
+        return clean_text
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     headers = {
@@ -23,6 +33,7 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "x-goog-api-key": GEMINI_API_KEY,
     }
 
+    # PROMPT ASAL ANDA (TIDAK DIUBAH)
     prompt = (
         "Translate the following text into natural, conversational Malaysian Malay.\n\n"
         "### TONE & STYLE:\n"
@@ -47,21 +58,27 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "generationConfig": {"temperature": 0.2}
     }
 
-    retries = 5
-    for attempt in range(1, retries + 1):
+    # --- STRATEGI 2: SMART PERSISTENCE ---
+    attempt = 0
+    while True: # Terus mencuba sehingga berjaya
+        attempt += 1
         try:
             resp = requests.post(url, headers=headers, json=payload, timeout=60)
             
             # Jika terkena Rate Limit (429)
             if resp.status_code == 429:
-                wait_time = 80  # Tunggu 1 minit penuh jika kena block
-                print(f"[Warning] HTTP 429 (Rate Limit). Rehat {wait_time}s sebelum cuba balik...")
+                # Tunggu makin lama ikut jumlah cubaan (90s, 180s, 270s...)
+                wait_time = min(90 * attempt, 300) 
+                print(f"[Warning] Rate Limit (429). Cubaan #{attempt}. Rehat {wait_time}s...")
                 time.sleep(wait_time)
                 continue 
 
+            # Jika Model Error (404/500)
             if not resp.ok:
-                print(f"[Error] HTTP {resp.status_code}: {resp.text[:200]}")
-                resp.raise_for_status()
+                print(f"[Error] HTTP {resp.status_code}: {resp.text[:150]}")
+                if attempt > 5: return text # Jika 5x gagal error lain, pulangkan asal
+                time.sleep(10)
+                continue
 
             data = resp.json()
             candidates = data.get("candidates", [])
@@ -73,18 +90,15 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
                     if t:
                         print(f"[Success] Terjemahan selesai.")
                         
-                        # --- CARA 1: FIXED THROTTLING ---
-                        # Kita paksa rehat 5 saat selepas setiap kejayaan.
-                        # Ini memastikan kita tidak hantar lebih 12 request seminit.
-                        time.sleep(5) 
+                        # --- STRATEGI 3: HARD THROTTLING ---
+                        # Rehat 12 saat setiap kali BERJAYA supaya RPM kekal rendah & selamat.
+                        time.sleep(12) 
                         
                         return t
 
-            print(f"[Warning] Tiada hasil pada cubaan {attempt}. Cuba lagi...")
-            
-        except requests.exceptions.RequestException as e:
-            print(f"[Error] Cubaan {attempt} gagal: {e}")
-            time.sleep(2 ** attempt) # Exponential backoff untuk error rangkaian biasa
+        except Exception as e:
+            print(f"[Error] Cubaan #{attempt} gagal: {e}")
+            if attempt > 10: return text
+            time.sleep(10)
 
-    print(f"[Error] Semua cubaan gagal untuk teks: {text[:50]}...")
-    return ""
+    return text
