@@ -6,7 +6,7 @@ import requests
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # Menggunakan 1.5-flash-latest untuk kestabilan kuota Free Tier
-GEMINI_MODEL = "gemini-1.5-flash-latest" 
+GEMINI_MODEL = "gemini-2.5-flash-latest" 
 
 def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
     """
