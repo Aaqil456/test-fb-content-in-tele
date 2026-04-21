@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-20T12:07:44.458260",
+    "timestamp": "2026-04-21T08:59:55.615524",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -350,6 +350,36 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$METIS****/USDT (30m)** Overbought level reached\nRSI: 70.19 | [Binance](https://www.binance.com/en/trade/METIS_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:METISUSDT)",
             "date": "2026-04-20 11:34:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #TRU from 0.0046 to 0.005 USDT  = 8.7 %",
+            "date": "2026-04-21 08:25:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 21/04/2026 11:40:45\n\ud83d\udcc8 **Total Coins:** 561\n\ud83d\udcca **Average Rate:** `-0.0008%`\n\n\ud83d\udfe2 **Positive Funding:** 432\n\ud83d\udd34 **Negative Funding:** 129\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #DEGOUSDT: `0.2972%`\n  2. #DENTUSDT: `0.2268%`\n  3. #GUAUSDT: `0.1355%`\n  4. #BROCCOLIF3BUSDT: `0.1343%`\n  5. #RAVEUSDT: `0.1248%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #EDUUSDT: `-1.4704%`\n  2. #PORTALUSDT: `-0.4208%`\n  3. #AXLUSDT: `-0.3348%`\n  4. #IPUSDC: `-0.1891%`\n  5. #IPUSDT: `-0.1538%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-21 04:40:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$DASH****/USDT (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/DASH_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DASHUSDT)]",
+            "date": "2026-04-21 08:36:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$XRP****/USDT (30m)** Overbought level reached\nRSI: 70.08 | [Binance](https://www.binance.com/en/trade/XRP_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:XRPUSDT)",
+            "date": "2026-04-21 08:42:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cryptoquant_official",
+            "original_text": "USDT (TRC20) Total Supply Hits New All-Time High\n\n\u201cThe total supply of Tether (USDT) on the Tron network has reached a new all-time high of 86.7 billion\u2026 From an on-chain perspective, a surging stablecoin supply is a strong bullish signal.\u201d \u2013 [Read More](https://cryptoquant.com/insights/quicktake/69e677886aae2d16bb46e667-USDT-TRC20-Total-Supply-Hits-New-All-Time-High?utm_source=telegram&utm_medium=sns&utm_campaign=quicktake&utm_content=cryptoonchain)\n \nBy [CryptoOnchain](https://cryptoquant.com/profile/u/CryptoOnchain?tab=dashboard&utm_source=telegram&utm_medium=sns&utm_campaign=profile&utm_content=cryptoonchain) | @cryptoquant_official",
+            "date": "2026-04-21 08:04:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**RUNE/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**132.46K RUNE** have been sold\n\ud83d\udcb0Price: 0.442 USDT (**3.51%**)\n\ud83d\udea8Order Size: **57,733 USDT** (**5.01%**)\n\u23f3Duration: **9 minutes**\n\ud83d\udcca24h Vol: **1.15M** USDT",
+            "date": "2026-04-21 08:27:45+00:00"
         }
     ]
 }
