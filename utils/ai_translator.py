@@ -6,7 +6,7 @@ import requests
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # Guna 1.5-flash-latest atau 2.0-flash (Mana yang stabil di akaun anda)
-GEMINI_MODEL = "gemini-2.5-flash-latest" 
+GEMINI_MODEL = "gemini-3.1-flash-lite" 
 
 def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
     """
