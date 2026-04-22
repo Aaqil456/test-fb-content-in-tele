@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-22T20:39:52.649580",
+    "timestamp": "2026-04-22T21:33:14.892268",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -560,6 +560,21 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**GLMR/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.43M GLMR** have been bought\n\ud83d\udcb0Price: 0.0156 USDT (**5.41%**)\n\ud83d\udea8Order Size: **21,797 USDT** (**5.01%**)\n\u23f3Duration: **8 minutes**\n\ud83d\udcca24h Vol: **435.11K** USDT",
             "date": "2026-04-22 19:58:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #GLMR from 0.0157 to 0.0146 USDT  = -7.01 %",
+            "date": "2026-04-22 21:11:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 23/04/2026 03:40:45\n\ud83d\udcc8 **Total Coins:** 562\n\ud83d\udcca **Average Rate:** `0.0044%`\n\n\ud83d\udfe2 **Positive Funding:** 471\n\ud83d\udd34 **Negative Funding:** 91\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #UBUSDT: `0.1379%`\n  2. #MAGMAUSDT: `0.0799%`\n  3. #BULLAUSDT: `0.0799%`\n  4. #SPORTFUNUSDT: `0.0689%`\n  5. #GUAUSDT: `0.0653%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #ENJUSDT: `-0.12%`\n  2. #KERNELUSDT: `-0.0955%`\n  3. #ONTUSDT: `-0.0871%`\n  4. #COMPUSDT: `-0.0857%`\n  5. #BIOUSDT: `-0.0846%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-22 20:40:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$STRK****/USDT (30m)** Overbought level reached\nRSI: 70.17 | [Binance](https://www.binance.com/en/trade/STRK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:STRKUSDT)",
+            "date": "2026-04-22 21:30:41+00:00"
         }
     ]
 }
