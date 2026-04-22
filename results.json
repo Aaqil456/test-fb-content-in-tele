@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-22T22:13:01.632873",
+    "timestamp": "2026-04-22T23:06:24.234095",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -590,6 +590,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$BB****/USDT (30m)** Overbought level reached\nRSI: 71.00 | [Binance](https://www.binance.com/en/trade/BB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BBUSDT)",
             "date": "2026-04-22 22:01:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 3x DUMP #FIO from 0.00113 to 0.00103 USDT  = -8.85 %",
+            "date": "2026-04-22 23:01:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$DENT****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/DENT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DENTUSDT)]",
+            "date": "2026-04-22 23:02:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TIA****/USDT (30m)** Oversold level reached\nRSI: 28.89 | [Binance](https://www.binance.com/en/trade/TIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TIAUSDT)",
+            "date": "2026-04-22 23:05:41+00:00"
         }
     ]
 }
