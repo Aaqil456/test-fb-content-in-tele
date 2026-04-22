@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-22T19:50:54.097587",
+    "timestamp": "2026-04-22T20:39:52.649580",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -540,6 +540,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$BB****/USDT (1h)** Overbought level reached\nRSI: 70.67 | [Binance](https://www.binance.com/en/trade/BB_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BBUSDT)",
             "date": "2026-04-22 19:43:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #DEGO from 0.125 to 0.116 USDT  = -7.2 %",
+            "date": "2026-04-22 20:06:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$EUL****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/EUL_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:EULUSDT)]",
+            "date": "2026-04-22 20:34:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ENA****/USDT (30m)** Oversold level reached\nRSI: 29.73 | [Binance](https://www.binance.com/en/trade/ENA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ENAUSDT)",
+            "date": "2026-04-22 20:34:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**GLMR/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.43M GLMR** have been bought\n\ud83d\udcb0Price: 0.0156 USDT (**5.41%**)\n\ud83d\udea8Order Size: **21,797 USDT** (**5.01%**)\n\u23f3Duration: **8 minutes**\n\ud83d\udcca24h Vol: **435.11K** USDT",
+            "date": "2026-04-22 19:58:59+00:00"
         }
     ]
 }
