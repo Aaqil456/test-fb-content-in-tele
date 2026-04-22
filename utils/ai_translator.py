@@ -4,7 +4,7 @@ import requests
 
 # Use the technical Model ID (e.g., adding '-001' or '-preview' as per AI Studio specs)
 # For Gemini 3.1 Flash Lite, the stable endpoint is usually:
-GEMINI_MODEL = "gemini-3.1-flash-lite-001" 
+GEMINI_MODEL = "gemini-3.1-flash-lite-preview" 
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
