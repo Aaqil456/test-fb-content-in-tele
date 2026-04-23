@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T12:01:05.020253",
+    "timestamp": "2026-04-23T13:28:30.437443",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -760,6 +760,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$HEMI****/USDT (4h)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/HEMI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:HEMIUSDT)",
             "date": "2026-04-23 11:43:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #HIGH from 0.233 to 0.252 USDT  = 8.15 %",
+            "date": "2026-04-23 13:00:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 23/04/2026 19:40:45\n\ud83d\udcc8 **Total Coins:** 561\n\ud83d\udcca **Average Rate:** `0.0019%`\n\n\ud83d\udfe2 **Positive Funding:** 443\n\ud83d\udd34 **Negative Funding:** 118\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #AKEUSDT: `0.1774%`\n  2. #BROCCOLIF3BUSDT: `0.1393%`\n  3. #TACUSDT: `0.0959%`\n  4. #KOMAUSDT: `0.0893%`\n  5. #FOLKSUSDT: `0.0839%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #SPKUSDT: `-0.489%`\n  2. #MOVRUSDT: `-0.3678%`\n  3. #AXLUSDT: `-0.2958%`\n  4. #SOONUSDT: `-0.2546%`\n  5. #BBUSDT: `-0.1715%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-23 12:40:46+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ENJ****/USDT (4h)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/ENJ_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ENJUSDT)]",
+            "date": "2026-04-23 13:26:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$MOVR****/USDT (30m)** Overbought level reached\nRSI: 70.16 | [Binance](https://www.binance.com/en/trade/MOVR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MOVRUSDT)",
+            "date": "2026-04-23 13:13:21+00:00"
         }
     ]
 }
