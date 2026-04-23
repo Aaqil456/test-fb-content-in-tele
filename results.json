@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T01:19:25.065257",
+    "timestamp": "2026-04-23T04:25:23.640483",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -640,6 +640,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$ETC****/USDT (30m)** Oversold level reached\nRSI: 29.88 | [Binance](https://www.binance.com/en/trade/ETC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETCUSDT)",
             "date": "2026-04-23 01:19:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 3x DUMP #ALICE from 0.156 to 0.145 USDT  = -7.18 %",
+            "date": "2026-04-23 04:15:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZRO****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)]",
+            "date": "2026-04-23 04:16:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$SOL****/BTC (30m)** Oversold level reached\nRSI: 29.95 | [Binance](https://www.binance.com/en/trade/SOL_BTC) | [TradingView](https://tradingview.com/chart/?symbol=Binance:SOLBTC)",
+            "date": "2026-04-23 04:18:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**BIO/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**12.57M BIO** have been bought\n\ud83d\udcb0Price: 0.0379 USDT (**16.26%**)\n\ud83d\udea8Order Size: **443,310 USDT** (**5.01%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **8.85M** USDT",
+            "date": "2026-04-23 02:03:37+00:00"
         }
     ]
 }
