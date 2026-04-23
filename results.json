@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T18:02:17.693787",
+    "timestamp": "2026-04-23T20:14:51.733207",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -835,6 +835,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$MOVR****/USDT (30m)** Overbought level reached\nRSI: 70.45 | [Binance](https://www.binance.com/en/trade/MOVR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MOVRUSDT)",
             "date": "2026-04-23 17:58:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #LUNC from 0.0000434600 to 0.0000470400 USDT  = 8.24 %",
+            "date": "2026-04-23 20:13:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MET****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/MET_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:METUSDT)]",
+            "date": "2026-04-23 20:13:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUNC****/USDT (1h)** Overbought level reached\nRSI: 70.27 | [Binance](https://www.binance.com/en/trade/LUNC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LUNCUSDT)",
+            "date": "2026-04-23 20:11:25+00:00"
         }
     ]
 }
