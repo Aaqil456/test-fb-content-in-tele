@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T13:28:30.437443",
+    "timestamp": "2026-04-23T15:26:30.777199",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -780,6 +780,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$MOVR****/USDT (30m)** Overbought level reached\nRSI: 70.16 | [Binance](https://www.binance.com/en/trade/MOVR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MOVRUSDT)",
             "date": "2026-04-23 13:13:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #DEXE from 13.36 to 12.43 USDT  = -7.01 %",
+            "date": "2026-04-23 15:21:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$LTC****/USDT (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/LTC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LTCUSDT)]",
+            "date": "2026-04-23 15:23:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BANANAS31/USDT (30m)** Extreme Overbought level reached\nRSI: 84.50 | [Binance](https://www.binance.com/en/trade/BANANAS31_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BANANAS31USDT)",
+            "date": "2026-04-23 15:24:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**DODO/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**5.84M DODO** have been bought\n\ud83d\udcb0Price: 0.0230 USDT (**17.65%**)\n\ud83d\udea8Order Size: **123,531 USDT** (**5.07%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **2.43M** USDT",
+            "date": "2026-04-23 15:17:25+00:00"
         }
     ]
 }
