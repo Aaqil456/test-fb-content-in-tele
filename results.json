@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-24T14:20:07.653726",
+    "timestamp": "2026-04-24T15:41:00.911029",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1075,6 +1075,21 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**ACE/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**607.83K ACE** have been bought\n\ud83d\udcb0Price: 0.129 USDT (**2.38%**)\n\ud83d\udea8Order Size: **77,565 USDT** (**5.06%**)\n\u23f3Duration: **12 minutes**\n\ud83d\udcca24h Vol: **1.53M** USDT",
             "date": "2026-04-24 13:09:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #AEVO from 0.0256 to 0.0277 USDT  = 8.2 %",
+            "date": "2026-04-24 15:32:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$WBETH****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/WBETH_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:WBETHUSDT)]",
+            "date": "2026-04-24 15:40:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$VANA****/USDT (4h)** Overbought level reached\nRSI: 70.09 | [Binance](https://www.binance.com/en/trade/VANA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:VANAUSDT)",
+            "date": "2026-04-24 15:40:46+00:00"
         }
     ]
 }
