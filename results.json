@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-24T22:10:46.252650",
+    "timestamp": "2026-04-24T22:57:20.408228",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1225,6 +1225,21 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**ANKR/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**2.54M ANKR** have been sold\n\ud83d\udcb0Price: 0.00510 USDT (**-0.97%**)\n\ud83d\udea8Order Size: **12,981 USDT** (**5.01%**)\n\u23f3Duration: **7 minutes**\n\ud83d\udcca24h Vol: **259.29K** USDT",
             "date": "2026-04-24 21:36:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #GLMR from 0.0167 to 0.0181 USDT  = 8.38 %",
+            "date": "2026-04-24 22:31:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$HUMA****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/HUMA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:HUMAUSDT)]",
+            "date": "2026-04-24 22:45:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$API3/USDT (30m)** Overbought level reached\nRSI: 70.29 | [Binance](https://www.binance.com/en/trade/API3_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:API3USDT)",
+            "date": "2026-04-24 22:50:01+00:00"
         }
     ]
 }
