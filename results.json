@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-24T22:57:20.408228",
+    "timestamp": "2026-04-24T23:33:29.318757",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1240,6 +1240,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$API3/USDT (30m)** Overbought level reached\nRSI: 70.29 | [Binance](https://www.binance.com/en/trade/API3_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:API3USDT)",
             "date": "2026-04-24 22:50:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 5x DUMP #DEGO from 0.091 to 0.083 USDT  = -8.79 %",
+            "date": "2026-04-24 23:25:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BNB****/BTC (30m)** MACD Super bearish crossover \ud83d\udc80\n[[Binance](https://www.binance.com/en/trade/BNB_BTC) | [TV](https://tradingview.com/chart/?symbol=Binance:BNBBTC)]",
+            "date": "2026-04-24 23:31:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZK****/USDT (1h)** Overbought level reached\nRSI: 70.44 | [Binance](https://www.binance.com/en/trade/ZK_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZKUSDT)",
+            "date": "2026-04-24 23:29:29+00:00"
         }
     ]
 }
