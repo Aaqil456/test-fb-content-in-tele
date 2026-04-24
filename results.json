@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-24T21:31:35.063276",
+    "timestamp": "2026-04-24T22:10:46.252650",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1205,6 +1205,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$ME****/USDT (1d)** Overbought level reached\nRSI: 70.46 | [Binance](https://www.binance.com/en/trade/ME_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:MEUSDT)",
             "date": "2026-04-24 21:19:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #METIS from 3.83 to 3.56 USDT  = -7.05 %",
+            "date": "2026-04-24 22:05:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$NFP****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/NFP_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:NFPUSDT)]",
+            "date": "2026-04-24 22:09:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$APE****/USDT (1h)** Overbought level reached\nRSI: 70.14 | [Binance](https://www.binance.com/en/trade/APE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:APEUSDT)",
+            "date": "2026-04-24 22:01:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**ANKR/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**2.54M ANKR** have been sold\n\ud83d\udcb0Price: 0.00510 USDT (**-0.97%**)\n\ud83d\udea8Order Size: **12,981 USDT** (**5.01%**)\n\u23f3Duration: **7 minutes**\n\ud83d\udcca24h Vol: **259.29K** USDT",
+            "date": "2026-04-24 21:36:08+00:00"
         }
     ]
 }
