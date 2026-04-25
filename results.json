@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T17:06:04.349902",
+    "timestamp": "2026-04-25T17:51:47.187883",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1545,6 +1545,21 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "\u2728**Bot Command Showcase**\u2728 \n\n**Featured command: **__/ratio__ \ud83d\udd25 \n\nThe '/ratio' command can be used to check out the **long/short** ratio of any future markets listed on **Binance**. \u2696  \nUse it to see **how much** people are **long or short** and observe if it maybe makes sense to be **contrarian** to the herd. \nThis command can be used on **all markets** available on binance futures, with its given format.\n\n**Command Format:**\n**-** /ratio btcusdt\n**-** /ratio ethusdt 4h\n\nUse our Crypto Market Bot for **FREE**! Chat with the Bot directly or simply **add it to a group** to use it together with your friends! \ud83d\ude80\n\nDM @CoinTrendzBot and type **__/ratio__** to try the command now!",
             "date": "2026-04-25 17:00:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 2x DUMP #AEVO from 0.0282 to 0.0262 USDT  = -7.09 %",
+            "date": "2026-04-25 17:41:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ENA****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/ENA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ENAUSDT)]",
+            "date": "2026-04-25 17:43:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TAO****/USDT (30m)** Oversold level reached\nRSI: 29.96 | [Binance](https://www.binance.com/en/trade/TAO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)",
+            "date": "2026-04-25 17:51:01+00:00"
         }
     ]
 }
