@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T15:06:56.454555",
+    "timestamp": "2026-04-25T15:52:56.430082",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1490,6 +1490,26 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**RARE/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**8.14M RARE** have been bought\n\ud83d\udcb0Price: 0.0185 USDT (**2.78%**)\n\ud83d\udea8Order Size: **149,062 USDT** (**5.18%**)\n\u23f3Duration: **12 minutes**\n\ud83d\udcca24h Vol: **2.88M** USDT",
             "date": "2026-04-25 14:58:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #JOE from 0.0495 to 0.046 USDT  = -7.07 %",
+            "date": "2026-04-25 15:51:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$ZEC****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/ZEC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ZECUSDT)]",
+            "date": "2026-04-25 15:51:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$W****/USDT (30m)** Oversold level reached\nRSI: 29.42 | [Binance](https://www.binance.com/en/trade/W_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WUSDT)",
+            "date": "2026-04-25 15:50:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**SXT/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**1.9M SXT** have been bought\n\ud83d\udcb0Price: 0.0173 USDT (**0.70%**)\n\ud83d\udea8Order Size: **32,779 USDT** (**5.74%**)\n\u23f3Duration: **2 seconds**\n\ud83d\udcca24h Vol: **571.38K** USDT",
+            "date": "2026-04-25 15:46:35+00:00"
         }
     ]
 }
