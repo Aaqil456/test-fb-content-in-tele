@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T21:50:36.609404",
+    "timestamp": "2026-04-25T22:20:34.699839",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1655,6 +1655,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$ENSO****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.04 | [Binance](https://www.binance.com/en/trade/ENSO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ENSOUSDT)",
             "date": "2026-04-25 21:40:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #DEGO from 0.08 to 0.074 USDT  = -7.5 %",
+            "date": "2026-04-25 22:06:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SAPIEN****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/SAPIEN_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SAPIENUSDT)]",
+            "date": "2026-04-25 22:09:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RAY****/USDT (1h)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/RAY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RAYUSDT)",
+            "date": "2026-04-25 22:19:07+00:00"
         }
     ]
 }
