@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T13:45:00.165113",
+    "timestamp": "2026-04-25T14:30:48.997335",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1450,6 +1450,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$BLUR****/USDT (30m)** Oversold level reached\nRSI: 29.85 | [Binance](https://www.binance.com/en/trade/BLUR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BLURUSDT)",
             "date": "2026-04-25 13:40:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 3x DUMP #TIA from 0.379 to 0.352 USDT  = -7.15 %",
+            "date": "2026-04-25 14:16:28+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$D****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/D_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DUSDT)]",
+            "date": "2026-04-25 14:25:49+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$0G/USDT (30m)** Overbought level reached\nRSI: 70.72 | [Binance](https://www.binance.com/en/trade/0G_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:0GUSDT)",
+            "date": "2026-04-25 14:29:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**ENSO/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**86.23K ENSO** have been bought\n\ud83d\udcb0Price: 0.965 USDT (**15.43%**)\n\ud83d\udea8Order Size: **74,480 USDT** (**5.05%**)\n\u23f3Duration: **6 minutes**\n\ud83d\udcca24h Vol: **1.47M** USDT",
+            "date": "2026-04-25 14:04:43+00:00"
         }
     ]
 }
