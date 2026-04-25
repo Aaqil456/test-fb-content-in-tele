@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T19:25:59.461183",
+    "timestamp": "2026-04-25T19:59:21.416968",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1590,6 +1590,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$XLM****/USDT (1h)** Oversold level reached\nRSI: 29.66 | [Binance](https://www.binance.com/en/trade/XLM_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:XLMUSDT)",
             "date": "2026-04-25 19:22:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #TRU from 0.0033 to 0.0036 USDT  = 9.09 %",
+            "date": "2026-04-25 19:31:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$APT****/USDT (30m)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/APT_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:APTUSDT)]",
+            "date": "2026-04-25 19:54:50+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ALGO****/USDT (1h)** Overbought level reached\nRSI: 70.24 | [Binance](https://www.binance.com/en/trade/ALGO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ALGOUSDT)",
+            "date": "2026-04-25 19:52:03+00:00"
         }
     ]
 }
