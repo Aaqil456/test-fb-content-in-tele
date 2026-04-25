@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T22:20:34.699839",
+    "timestamp": "2026-04-25T22:59:09.232153",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1670,6 +1670,16 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$RAY****/USDT (1h)** Overbought level reached\nRSI: 70.11 | [Binance](https://www.binance.com/en/trade/RAY_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RAYUSDT)",
             "date": "2026-04-25 22:19:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$D****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/D_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:DUSDT)]",
+            "date": "2026-04-25 22:35:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ZRO****/USDT (30m)** Oversold level reached\nRSI: 29.68 | [Binance](https://www.binance.com/en/trade/ZRO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ZROUSDT)",
+            "date": "2026-04-25 22:52:23+00:00"
         }
     ]
 }
