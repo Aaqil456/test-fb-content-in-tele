@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T22:28:18.081839",
+    "timestamp": "2026-04-26T23:05:07.554720",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -2090,6 +2090,16 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$KITE****/USDT (1h)** Overbought level reached\nRSI: 70.19 | [Binance](https://www.binance.com/en/trade/KITE_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:KITEUSDT)",
             "date": "2026-04-26 22:18:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$PROVE****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/PROVE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:PROVEUSDT)]",
+            "date": "2026-04-26 23:00:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$PAXG****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.88 | [Binance](https://www.binance.com/en/trade/PAXG_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:PAXGUSDT)",
+            "date": "2026-04-26 23:01:23+00:00"
         }
     ]
 }
