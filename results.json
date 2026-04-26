@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T00:08:00.244668",
+    "timestamp": "2026-04-26T03:53:06.429649",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1710,6 +1710,26 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**F/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**6.9M F** have been bought\n\ud83d\udcb0Price: 0.00647 USDT (**13.11%**)\n\ud83d\udea8Order Size: **42,479 USDT** (**5.06%**)\n\u23f3Duration: **3 minutes**\n\ud83d\udcca24h Vol: **840.25K** USDT",
             "date": "2026-04-26 00:03:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #BDX from 0.257 to 0.237 USDT  = -7.62 %",
+            "date": "2026-04-26 03:35:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\u26a1\ufe0f **Funding-fee alert:**\n\n**\ud83d\udca5 Coin: ****#SOMIUSDT**\n**\ud83d\udcca Funding: -0.2181%**\n**\ud83d\udcb0 Price: 0.223**\n\n\ud83d\udccb **Reason:** \ud83d\udcc9 Negative Increase: 0.2231% (from 0.005% \u2192 -0.2181%)\n\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-26 03:09:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUMIA****/USDT (4h)** Overbought level reached\nRSI: 70.10 | [Binance](https://www.binance.com/en/trade/LUMIA_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LUMIAUSDT)",
+            "date": "2026-04-26 03:48:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**IQ/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**22.57M IQ** have been bought\n\ud83d\udcb0Price: 0.00122 USDT (**7.01%**)\n\ud83d\udea8Order Size: **26,445 USDT** (**5.15%**)\n\u23f3Duration: **12 minutes**\n\ud83d\udcca24h Vol: **513.88K** USDT",
+            "date": "2026-04-26 01:29:25+00:00"
         }
     ]
 }
