@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T19:29:09.587193",
+    "timestamp": "2026-04-26T20:02:23.663050",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -2015,6 +2015,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$LDO****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.26 | [Binance](https://www.binance.com/en/trade/LDO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LDOUSDT)",
             "date": "2026-04-26 19:25:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 3x PUMP #LDO from 0.433 to 0.468 USDT  = 8.1 %",
+            "date": "2026-04-26 19:41:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SAND****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/SAND_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:SANDUSDT)]",
+            "date": "2026-04-26 20:01:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$LUNC****/USDT (1h)** Extreme Overbought level reached\nRSI: 80.04 | [Binance](https://www.binance.com/en/trade/LUNC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LUNCUSDT)",
+            "date": "2026-04-26 19:56:05+00:00"
         }
     ]
 }
