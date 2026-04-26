@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T17:54:25.143014",
+    "timestamp": "2026-04-26T18:31:54.380505",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1985,6 +1985,16 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$OPEN****/USDT (1h)** Overbought level reached\nRSI: 70.25 | [Binance](https://www.binance.com/en/trade/OPEN_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:OPENUSDT)",
             "date": "2026-04-26 17:51:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 2x PUMP #LQTY from 0.307 to 0.332 USDT  = 8.14 %",
+            "date": "2026-04-26 17:56:39+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$RSR****/USDT (1h)** Overbought level reached\nRSI: 70.02 | [Binance](https://www.binance.com/en/trade/RSR_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:RSRUSDT)",
+            "date": "2026-04-26 18:14:09+00:00"
         }
     ]
 }
