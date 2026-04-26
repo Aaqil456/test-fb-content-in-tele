@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T21:23:13.263659",
+    "timestamp": "2026-04-26T21:57:31.234161",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -2060,6 +2060,21 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$LDO****/USDT (1h)** Overbought level reached\nRSI: 70.21 | [Binance](https://www.binance.com/en/trade/LDO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:LDOUSDT)",
             "date": "2026-04-26 21:20:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 3x DUMP #STRK from 0.0428 to 0.0397 USDT  = -7.24 %",
+            "date": "2026-04-26 21:35:18+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BTC****/USDT (1h)** Overbought level reached\nRSI: 73.71 | [Binance](https://www.binance.com/en/trade/BTC_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BTCUSDT)",
+            "date": "2026-04-26 21:55:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**WBTC/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**2.87 WBTC** have been bought\n\ud83d\udcb0Price: 78,356 USDT (**0.65%**)\n\ud83d\udea8Order Size: **223,274 USDT** (**12.49%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **1.79M** USDT",
+            "date": "2026-04-26 21:55:09+00:00"
         }
     ]
 }
