@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T05:59:20.733503",
+    "timestamp": "2026-04-26T07:24:13.145005",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -1745,6 +1745,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$AVNT****/USDT (30m)** Extreme Overbought level reached\nRSI: 80.15 | [Binance](https://www.binance.com/en/trade/AVNT_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:AVNTUSDT)",
             "date": "2026-04-26 05:57:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #DGB from 0.00323 to 0.00372 USDT  = 15.17 %",
+            "date": "2026-04-26 06:50:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 26/04/2026 14:05:09\n\ud83d\udcc8 **Total Coins:** 560\n\ud83d\udcca **Average Rate:** `-0.0005%`\n\n\ud83d\udfe2 **Positive Funding:** 469\n\ud83d\udd34 **Negative Funding:** 91\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #BASUSDT: `0.1099%`\n  2. #AVAAIUSDT: `0.1001%`\n  3. #KOMAUSDT: `0.0978%`\n  4. #AGTUSDT: `0.095%`\n  5. #ARIAUSDT: `0.0854%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #ORCAUSDT: `-2%`\n  2. #MINAUSDT: `-0.4329%`\n  3. #RAYSOLUSDT: `-0.2935%`\n  4. #ILVUSDT: `-0.1413%`\n  5. #AXLUSDT: `-0.1375%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-26 07:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$INJ****/USDT (4h)** Extreme Overbought level reached\nRSI: 80.32 | [Binance](https://www.binance.com/en/trade/INJ_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:INJUSDT)",
+            "date": "2026-04-26 07:21:30+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**VIRTUAL/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**222.6K VIRTUAL** have been bought\n\ud83d\udcb0Price: 0.708 USDT (**0.60%**)\n\ud83d\udea8Order Size: **156,894 USDT** (**5.80%**)\n\u23f3Duration: **13 minutes**\n\ud83d\udcca24h Vol: **2.7M** USDT",
+            "date": "2026-04-26 06:05:56+00:00"
         }
     ]
 }
