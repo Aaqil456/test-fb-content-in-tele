@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-27T04:44:22.730593",
+    "timestamp": "2026-04-27T07:23:07.174151",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -2160,6 +2160,31 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$TAO****/USDT (30m)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/TAO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)",
             "date": "2026-04-27 04:24:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #RAD from 0.241 to 0.262 USDT  = 8.71 %",
+            "date": "2026-04-27 07:16:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 27/04/2026 14:05:09\n\ud83d\udcc8 **Total Coins:** 562\n\ud83d\udcca **Average Rate:** `0.0039%`\n\n\ud83d\udfe2 **Positive Funding:** 435\n\ud83d\udd34 **Negative Funding:** 127\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #IRUSDT: `0.1692%`\n  2. #DAMUSDT: `0.1634%`\n  3. #BASUSDT: `0.1099%`\n  4. #AVAAIUSDT: `0.1001%`\n  5. #KOMAUSDT: `0.0978%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #AXLUSDT: `-0.1375%`\n  2. #SPKUSDT: `-0.1154%`\n  3. #ALLUSDT: `-0.091%`\n  4. #BICOUSDT: `-0.0813%`\n  5. #GUNUSDT: `-0.0804%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-27 07:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$AR****/USDT (4h)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/AR_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:ARUSDT)]",
+            "date": "2026-04-27 07:05:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$ETH****/USDT (30m)** Oversold level reached\nRSI: 29.71 | [Binance](https://www.binance.com/en/trade/ETH_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:ETHUSDT)",
+            "date": "2026-04-27 07:18:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**RAD/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**118.42K RAD** have been bought\n\ud83d\udcb0Price: 0.255 USDT (**2.82%**)\n\ud83d\udea8Order Size: **29,973 USDT** (**5.02%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **597.37K** USDT",
+            "date": "2026-04-27 07:09:24+00:00"
         }
     ]
 }
