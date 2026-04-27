@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-27T14:58:00.895220",
+    "timestamp": "2026-04-27T16:17:58.735071",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -2250,6 +2250,26 @@
             "channel_link": "https://t.me/CycloneRSI",
             "original_text": "**$0G/USDT (30m)** Overbought level reached\nRSI: 71.15 | [Binance](https://www.binance.com/en/trade/0G_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:0GUSDT)",
             "date": "2026-04-27 14:53:38+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #SANTOS from 1.24 to 1.34 USDT  = 8.06 %",
+            "date": "2026-04-27 16:15:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$GIGGLE****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/GIGGLE_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:GIGGLEUSDT)]",
+            "date": "2026-04-27 16:14:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$BIO****/USDT (1h)** Oversold level reached\nRSI: 29.66 | [Binance](https://www.binance.com/en/trade/BIO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:BIOUSDT)",
+            "date": "2026-04-27 16:04:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/cointrendz_whalehunter",
+            "original_text": "**MET/USDT [Binance]**\nBig Whales **Buy** Activity \u2733\n**207.92K MET** have been bought\n\ud83d\udcb0Price: 0.155 USDT (**0.52%**)\n\ud83d\udea8Order Size: **32,101 USDT** (**5.05%**)\n\u23f3Duration: **7 minutes**\n\ud83d\udcca24h Vol: **635.79K** USDT",
+            "date": "2026-04-27 15:31:59+00:00"
         }
     ]
 }
