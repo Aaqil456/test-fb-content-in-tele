@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-27T01:18:50.214668",
+    "timestamp": "2026-04-27T04:44:22.730593",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -2140,6 +2140,26 @@
             "channel_link": "https://t.me/cointrendz_whalehunter",
             "original_text": "**0G/USDT [Binance]**\nBig Whales **Sell** Activity \ud83d\udd34\n**448.22K 0G** have been sold\n\ud83d\udcb0Price: 0.611 USDT (**1.66%**)\n\ud83d\udea8Order Size: **284,562 USDT** (**5.00%**)\n\u23f3Duration: **15 minutes**\n\ud83d\udcca24h Vol: **5.69M** USDT",
             "date": "2026-04-27 00:27:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #LUNC from 0.0000646800 to 0.0000600700 USDT  = -7.13 %",
+            "date": "2026-04-27 04:30:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/BNBFundingAlert",
+            "original_text": "\ud83d\udcca **BINANCE FUTURES FUNDING RATE REPORT**\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u23f0 **Time:** 27/04/2026 10:05:09\n\ud83d\udcc8 **Total Coins:** 561\n\ud83d\udcca **Average Rate:** `0.0055%`\n\n\ud83d\udfe2 **Positive Funding:** 476\n\ud83d\udd34 **Negative Funding:** 85\n\n\ud83d\udd25 **TOP 5 HIGHEST FUNDING RATES:**\n  1. #DAMUSDT: `0.1744%`\n  2. #IRUSDT: `0.1219%`\n  3. #HOODUSDT: `0.1132%`\n  4. #BASUSDT: `0.1099%`\n  5. #AGTUSDT: `0.1008%`\n\n\u2744\ufe0f **TOP 5 LOWEST FUNDING RATES:**\n  1. #AXLUSDT: `-0.1375%`\n  2. #SPKUSDT: `-0.1199%`\n  3. #ALLUSDT: `-0.091%`\n  4. #GUNUSDT: `-0.0804%`\n  5. #BICOUSDT: `-0.0591%`\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 [**Access Indicator**](https://app.mrd-indicators.com/)",
+            "date": "2026-04-27 03:05:10+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$BNB****/USDT (30m)** MACD Bearish crossover\n[[Binance](https://www.binance.com/en/trade/BNB_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:BNBUSDT)]",
+            "date": "2026-04-27 04:36:13+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneRSI",
+            "original_text": "**$TAO****/USDT (30m)** Overbought level reached\nRSI: 70.03 | [Binance](https://www.binance.com/en/trade/TAO_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TAOUSDT)",
+            "date": "2026-04-27 04:24:05+00:00"
         }
     ]
 }
