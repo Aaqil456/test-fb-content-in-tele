@@ -9,7 +9,8 @@ from telethon import TelegramClient
 from utils.google_sheet_reader import fetch_channels_from_google_sheet
 from utils.telegram_reader import extract_channel_username, fetch_latest_messages
 from utils.ai_translator import translate_text_gemini
-from utils.telegram_sender import send_telegram_message_html, send_photo_to_telegram_channel
+# Tukar import di sini untuk masukkan send_media_group_to_telegram
+from utils.telegram_sender import send_telegram_message_html, send_media_group_to_telegram
 from utils.json_writer import save_results, load_posted_messages
 
 
@@ -29,23 +30,36 @@ async def main():
         messages = await fetch_latest_messages(telegram_api_id, telegram_api_hash, channel_username)
 
         for msg in messages:
-            if msg["text"] in posted_messages:
+            # Gunakan ID mesej sebagai rujukan unik untuk elakkan duplicate
+            if str(msg["id"]) in posted_messages or msg["text"] in posted_messages:
                 print(f"⚠️ Skipping duplicate message ID {msg['id']} from {channel_username}")
                 continue
 
             translated = translate_text_gemini(msg["text"])
 
-            if msg["has_photo"]:
-                image_path = f"photo_{msg['id']}.jpg"
+            # LOGIC BARU: Support Album (Media Group)
+            photo_paths = []
+            
+            # Check jika ada list photos (hasil dari update telegram_reader.py tadi)
+            if msg.get("photos"):
                 async with TelegramClient("telegram_session", telegram_api_id, telegram_api_hash) as client:
-                    await client.download_media(msg["raw"], image_path)
+                    for i, photo_media in enumerate(msg["photos"]):
+                        path = f"photo_{msg['id']}_{i}.jpg"
+                        await client.download_media(photo_media, path)
+                        photo_paths.append(path)
 
-                send_photo_to_telegram_channel(
-                    image_path,
-                    translated
+                # Hantar guna fungsi Media Group (dia akan auto handle single atau multiple)
+                send_media_group_to_telegram(
+                    image_paths=photo_paths,
+                    translated_caption=translated
                 )
 
-                os.remove(image_path)
+                # Padam semua gambar lepas dah hantar
+                for p in photo_paths:
+                    if os.path.exists(p):
+                        os.remove(p)
+                        
+            # Jika mesej cuma teks sahaja
             else:
                 send_telegram_message_html(
                     translated_text=translated
@@ -54,6 +68,7 @@ async def main():
             result_output.append({
                 "channel_link": entry["channel_link"],
                 "original_text": msg["text"],
+                "id": str(msg["id"]), # Simpan ID untuk tracking duplicate yang lebih tepat
                 "date": msg["date"]
             })
 
