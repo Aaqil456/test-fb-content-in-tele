@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-29T20:58:41.483168",
+    "timestamp": "2026-04-29T21:49:26.399654",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -3438,6 +3438,54 @@
             "original_text": "**$WLFI****/USDT (30m)** Extreme Oversold level reached\nRSI: 19.76 | [Binance](https://www.binance.com/en/trade/WLFI_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:WLFIUSDT)",
             "id": "360505",
             "date": "2026-04-29 20:30:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udd34 DUMP #IQ from 0.00114 to 0.00106 USDT  = -7.34 %",
+            "id": "263030",
+            "date": "2026-04-29 21:30:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/PumpDumpAlert",
+            "original_text": "\ud83d\udfe2 PUMP #LUNC from 0.0000654500 to 0.0000709300 USDT  = 8.37 %",
+            "id": "263031",
+            "date": "2026-04-29 21:40:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$WLFI****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/WLFI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:WLFIUSDT)]",
+            "id": "201211",
+            "date": "2026-04-29 21:30:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$RAY****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/RAY_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:RAYUSDT)]",
+            "id": "201213",
+            "date": "2026-04-29 21:32:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$SOL****/BTC (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/SOL_BTC) | [TV](https://tradingview.com/chart/?symbol=Binance:SOLBTC)]",
+            "id": "201216",
+            "date": "2026-04-29 21:34:59+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$FLOKI****/USDT (4h)** MACD Super bullish crossover \ud83d\udd25\n[[Binance](https://www.binance.com/en/trade/FLOKI_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:FLOKIUSDT)]",
+            "id": "201217",
+            "date": "2026-04-29 21:40:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$MANTA****/USDT (30m)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/MANTA_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:MANTAUSDT)]",
+            "id": "201218",
+            "date": "2026-04-29 21:41:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/CycloneReversal",
+            "original_text": "**$LUNC****/USDT (4h)** MACD Bullish crossover\n[[Binance](https://www.binance.com/en/trade/LUNC_USDT) | [TV](https://tradingview.com/chart/?symbol=Binance:LUNCUSDT)]",
+            "id": "201219",
+            "date": "2026-04-29 21:45:58+00:00"
         }
     ]
 }
