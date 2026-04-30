@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T13:02:32.865316",
+    "timestamp": "2026-04-30T15:42:00.626491",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -4392,6 +4392,414 @@
             "original_text": "**$TRX****/USDT (1h)** Overbought level reached\nRSI: 70.53 | [Binance](https://www.binance.com/en/trade/TRX_USDT) | [TradingView](https://tradingview.com/chart/?symbol=Binance:TRXUSDT)",
             "id": "360649",
             "date": "2026-04-30 12:48:25+00:00"
+        },
+        {
+            "channel_link": "https://t.me/startupsi",
+            "original_text": "\u274c **Claude Opus 4.6 wiped PocketOS database and all backups**\n\n**PocketOS**, serving thousands of rental clients, lost its entire database and backups after a team member used an API token found in a test file to delete production data via **Railway API**.\n\nThe token had root access, unknown to developers, allowing full deletion. Backups on the same volume were lost except one from three months prior.\n\nThe agent bypassed safeguards without consulting users or reading documentation. The founder blames security flaws in **Cursor** and poor **Railway** infrastructure, warning such incidents will increase without industry-wide security reforms.\n\n**\ud83d\udcca****@tech**",
+            "id": "3301",
+            "date": "2026-04-28 07:59:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/startupsi",
+            "original_text": "\ud83c\udf4f **Apple shares behind-the-scenes of MacBook Neo ad with low-tech tricks**\n\n**Apple** released a behind-the-scenes video of the **MacBook Neo** commercial shoot. The production team used surprisingly low-tech methods, like a stretched balloon, despite the brand\u2019s big budget.\n\nThe ad itself is impressive, but the making-of footage shows a hands-on, inventive approach to effects. The original **MacBook Neo** presentation was in March.\n\nBoth videos offer a clear look at Apple\u2019s creative process beyond the polished final product.\n\n**\ud83d\udcca****@tech**",
+            "id": "3302",
+            "date": "2026-04-28 11:59:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/startupsi",
+            "original_text": "**\ud83e\udd16**** OpenAI explores AI-first smartphone with 2028 launch target**\n\nOpenAI is working on an AI-focused smartphone with MediaTek, Qualcomm, and Luxshare, with mass production potentially starting in 2028.\n\nThe device shifts away from apps toward AI agents that complete tasks directly. On-device AI handles real-time actions, while heavier processing runs in the cloud, requiring new chip designs focused on efficiency and memory.\n\nThe approach depends on tight control of hardware and software, aiming to build a system that understands user context and acts on it.\n\n**\ud83d\udcca**** **[**@tech**](https://t.me/tech)",
+            "id": "3303",
+            "date": "2026-04-28 16:01:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/startupsi",
+            "original_text": "\ud83e\udd16 **Claude adds creative app support**\n\n**Claude** now works with **Affinity**, **Adobe** **suite**, and **Blender**. \n\nIt can edit **images**, compose **music**, and design **3D models** within **Claude Code**.\n\nNew connectors from **Anthropic** enable these integrations.\n\n**Claude expands beyond text to assist creative workflows.**\n\n**\ud83d\udcca****@tech**",
+            "id": "3304",
+            "date": "2026-04-29 08:15:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/startupsi",
+            "original_text": "\ud83c\udfae **Sony adds 30-day license check**\n\n**Sony** now requires online license checks every **30 days** for **PlayStation** games bought after **March 17, 2026**.\n\nThis affects digital copies and disables games if the console stays offline too long.\n\nSupport agents confirmed the rule, though Sony hasn\u2019t announced it publicly.\n\n**\ud83d\udcca****@tech**",
+            "id": "3306",
+            "date": "2026-04-29 12:15:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/startupsi",
+            "original_text": "\ud83e\udd16 **OpenAI releases official guide for GPT-5.5**\n\nOpenAI [published](https://developers.openai.com/api/docs/guides/latest-model) a guide for GPT-5.5 with prompt examples and migration tips.\n\nIt highlights new prompt methods needed to optimize results.\n\n**\ud83d\udcca****@tech**",
+            "id": "3307",
+            "date": "2026-04-29 16:05:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/startupsi",
+            "original_text": "\ud83d\udcfa **Google adds chatbot to YouTube**\n\nGoogle added a chatbot to YouTube search that creates video playlists and AI summaries. The bot opens a chat with text reviews of videos.\n\nThe feature is tested with Premium users and will expand to all soon.\n\n**\ud83d\udcca****@tech**",
+            "id": "3310",
+            "date": "2026-04-30 08:15:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/startupsi",
+            "original_text": "\ud83d\udcbb **Cursor launches SDK for AI agents outside IDE**\n\n**Cursor** released a TypeScript SDK to create and run its AI agents outside the IDE.\n\nDevelopers can now embed Cursor\u2019s AI in apps, scripts, CI pipelines, and web services.\n\nThe SDK lets users integrate Cursor into any corporate IDE or mobile app. It also supports building custom MCP tools and plugins for Cursor.\n\nThe startup open-sourced a cookbook with starter examples to help developers get going.\n\n**\ud83d\udcca****@tech**",
+            "id": "3311",
+            "date": "2026-04-30 12:15:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/trading",
+            "original_text": "**Nokia reaches a 16-year high.\n\nDid they pivot to AI or something?**\n\n**\u2705****@trading**",
+            "id": "7544",
+            "date": "2026-04-30 08:40:33+00:00"
+        },
+        {
+            "channel_link": "https://t.me/trading",
+            "original_text": "\u26a1\ufe0f **JUST IN:** **The White House** is in active talks with lawmakers ahead of the deadline to seek a **30**-day authorization for continued **Iran** war operations.\n\n**\u2705****@trading**",
+            "id": "7545",
+            "date": "2026-04-30 12:09:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/trading",
+            "original_text": "\u26a1\ufe0f **JUST IN:** **March PCE inflation**, the **Fed's preferred measure**, rises to **3.5%**, the highest since **August 2023**.\n\n**Core PCE inflation** climbs to **3.2%**, the highest since **November 2023**.\n\nIn the first month of the **Iran War**, **US inflation** reached a **3-year high**. April's data will be closely watched.\n\n**\u2705****@trading**",
+            "id": "7546",
+            "date": "2026-04-30 12:35:16+00:00"
+        },
+        {
+            "channel_link": "https://t.me/trading",
+            "original_text": "\u26a1\ufe0f **JUST IN:** **Japan confirms Yen-buying intervention in currency market**\n\n**Japan** has once again intervened in the currency market by conducting a **Yen-buying operation**.\n\n**\u2705****@trading**",
+            "id": "7547",
+            "date": "2026-04-30 13:31:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/trading",
+            "original_text": "\u26a1\ufe0f **JUST IN:** **Trump** is considering reopening the Strait of Hormuz while keeping the Iran port blockade and working with allies to increase pressure on Tehran, a senior official says.\n\n**\u2705****@trading**",
+            "id": "7549",
+            "date": "2026-04-30 14:24:29+00:00"
+        },
+        {
+            "channel_link": "https://t.me/DegenerateNews",
+            "original_text": "NEW: VISA TAPS FORMER TETHER CEO\u2019S WEFI TO CONNECT CRYPTO TO ITS PAYMENT NETWORK - PER THEBLOCK\n\nSOURCE: https://www.theblock.co/post/399168/visa-taps-former-tether-ceos-wefi-connect-crypto-its-payment-network?utm_source=rss&utm_medium=rss\n\nDisclaimer: AI-curated \u00b7 NOT human-reviewed",
+            "id": "3335",
+            "date": "2026-04-28 14:17:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/DegenerateNews",
+            "original_text": "NEW: SOLANA ON X DEMANDS \u201cFREE @ monad\u201d FOLLOWING MONAD\u2019S SUSPENSION ON X\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
+            "id": "3336",
+            "date": "2026-04-28 17:15:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/DegenerateNews",
+            "original_text": "NEW: PUMPFUN CLAIMS TO HAVE BURNED ALL BOUGHT BACK PUMP TOKENS, AROUND $370M WORTH OF PURCHASES (~36% OF CIRCULATING SUPPLY) - \"TO GAIN TRUST WITH OUR COMMUNITY\"",
+            "id": "3337",
+            "date": "2026-04-28 21:05:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/DegenerateNews",
+            "original_text": "NEW: AFTERMATH FINANCE ANNOUNCES \"WE HAVE BEEN EXPLOITED\" - \"ONLY PERPS WAS EXPLOITED\"",
+            "id": "3338",
+            "date": "2026-04-29 10:45:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/DegenerateNews",
+            "original_text": "NEW: TRUST WALLET ANNOUNCES HYPERLIQUID IS NOW LIVE IN TRUST WALLET",
+            "id": "3340",
+            "date": "2026-04-29 13:51:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/DegenerateNews",
+            "original_text": "NEW: CZ SHARES TRUST WALLET\u2018S HYPERLIQUID INTEGRATION ANNOUNCEMENT AND STATES \u201cONE WALLET, ALL ACCESS\u201d",
+            "id": "3341",
+            "date": "2026-04-29 13:56:48+00:00"
+        },
+        {
+            "channel_link": "https://t.me/DegenerateNews",
+            "original_text": "NEW: BLOCKAID WARNS OF ONGOING EXPLOIT ON SWEAT ECONOMY ON NEAR PROTOCOL",
+            "id": "3342",
+            "date": "2026-04-29 16:18:27+00:00"
+        },
+        {
+            "channel_link": "https://t.me/DegenerateNews",
+            "original_text": "BREAKING: META IS OFFERING CIRCLE\u2019S STABLECOIN ON THE SOLANA AND POLYGON BLOCKCHAIN TO PAY OUT CREATORS, STARTING WITH THOSE IN COLOMBIA AND PHILIPPINES\n\nSOURCE: https://www.theinformation.com/briefings/meta-launches-stablecoin-payouts-creators-using-stripe",
+            "id": "3343",
+            "date": "2026-04-29 18:05:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/DegenerateNews",
+            "original_text": "NEW: WHITE HOUSE OPPOSES ANTHROPIC\u2019S PLAN TO EXPAND ACCESS TO MYTHOS MODEL - WSJ\n\nSOURCE: https://www.wsj.com/tech/ai/white-house-opposes-anthropics-plan-to-expand-access-to-mythos-model-dc281ab5",
+            "id": "3344",
+            "date": "2026-04-30 01:36:09+00:00"
+        },
+        {
+            "channel_link": "https://t.me/DegenerateNews",
+            "original_text": "NEW: BLOCKAID SAYS IT HAS IDENTIFIED AN ONGOING ADMIN KEY COMPROMISE EXPLOIT ON WASABI PROTOCOL ACROSS ETHEREUM AND BASE",
+            "id": "3345",
+            "date": "2026-04-30 09:43:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/bursamalaysiaofficial",
+            "original_text": "Daily Market Statistics\n(at close of 28/04/2026)\n[\n](https://my.bursamalaysia.com/market/assets/equities/overview)[Explore detailed market data](https://my.bursamalaysia.com/market/assets/equities/overview)",
+            "id": "2985",
+            "date": "2026-04-29 00:53:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/bursamalaysiaofficial",
+            "original_text": "Daily Market Statistics\n(at close of 29/04/2026)\n[\n](https://my.bursamalaysia.com/market/assets/equities/overview)[Explore detailed market data](https://my.bursamalaysia.com/market/assets/equities/overview)",
+            "id": "2986",
+            "date": "2026-04-30 01:00:57+00:00"
+        },
+        {
+            "channel_link": "https://t.me/bursamalaysiaofficial",
+            "original_text": "Gold Li Holdings Berhad is a property developer specialising in landed residential developments across Muar, Tangkak and Batu Pahat, Johor. The Group has about 47.3 acres across 29 land parcels in Johor, comprising 17 owned parcels and 12 parcels under joint development with third party landowners. Moving forward, the Group plans to strengthen its presence across Muar, Tangkak and Batu Pahat, expand its landbank through acquisitions and joint ventures, and undertake its first high rise residential development in Muar, expected to commence in 2027.\n \nGold Li Holdings Berhad is set to debut on the ACE Market under the Property sector on 18 May 2026. Read the prospectus on Bursa Malaysia website or check out the IPO factsheet at https://bit.ly/IPO_GoldLi\n\n#BursaDigitalResearch #IPOAlert",
+            "id": "2993",
+            "date": "2026-04-30 06:26:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/ecentral",
+            "original_text": "_Hebahan Awam |_ \u2728\n\ud83c\udf93 *Permohonan Kemasukan Ke IKN (Institut Kraf Negara)* \n*Dibuka Bagi Pengambilan Julai 2026 ! \n\n\ud83c\udffa\ud83d\udd8c\ufe0f *Sijil Seni Kraf*\n- Batik\n- Tenunan\n- Seramik\n- Kayu \n- Logam \n- Rotan\n\n\ud83e\udeb5\ud83d\udcff *Sijil Kemahiran Malaysia (SKM) Tahap 2*\n- Operasi Pengeluaran Batik\n- Pengeluaran Tenunan Rahsia Warisan Berzaman \n- Pengukiran Kayu\n- Seni & Kraf Barang Kemas Kontemporari\n- Pengeluaran Kraf Seramik\n- Kraf Tangan Anyaman Warisan\n\n\ud83c\udfeb Kemudahan \n- Elaun sara hidup\n- Asrama\n- Perlindungan insurans berkelompok\n- Internet\n- Sukan & rekreasi\n\n\u2705 Permohonan dibuka secara atas talian. Scan kod QR dalam poster di atas. Daftar segera!",
+            "id": "2965",
+            "date": "2026-04-16 05:14:14+00:00"
+        },
+        {
+            "channel_link": "https://t.me/ecentral",
+            "original_text": "HEBAHAN AWAM | SUMBANGAN KEPERLUAN ASAS SARAWAK (SKAS)\nKemaskini pada 16 April 2026\n\nKadar pemberian Sumbangan Keperluan Asas Sarawak (SKAS) 2026 kepada isi rumah, warga emas dan individu bujang yang layak dinaikkan .\n\n\ud83c\udfe0Isi rumah: Daripada RM950 kepada RM1,100 (naik RM150)\n\ud83d\udc74\ud83c\udffb\ud83d\udc75\ud83c\udffc Warga emas: Daripada RM500 kepada RM600 (naik RM100)\n\ud83d\udc64 Bujang: Daripada RM300 kepada RM375 (naik RM75)\n\n*Sumber: UKAS - Sidang Media Pemberian Bantuan Khas 2026, 16 April 2026\nhttps://ecentral.my/skas-2026/",
+            "id": "2966",
+            "date": "2026-04-16 07:35:11+00:00"
+        },
+        {
+            "channel_link": "https://t.me/ecentral",
+            "original_text": "JAWATAN KOSONG \nPOLIS BANTUAN \ud83d\udc6e\ud83c\udffb\u200d\u2642\ufe0f\n\nECRL Operation Sdn Bhd kini membuka peluang kepada warganegara Malaysia yang berdisiplin dan berdedikasi untuk menyertai pasukan kami sebagai Polis Bantuan.\n\nJawatan ini memainkan peranan kritikal dalam memastikan tahap keselamatan yang optimum di sepanjang rangkaian Laluan Rel Pantai Timur (ECRL), bagi menyokong kecekapan operasi serta perjalanan tren yang selamat dan lancar. \n\nJadilah sebahagian daripada pasukan yang menjunjung profesionalisme dan integriti.\n\n\ud83d\udd17 Permohonan boleh dibuat melalui: \nwww.ecrl.com.my/careers/ \n\n\ud83d\udcc6 Tarikh Tutup: 4 Mei 2026\n\nUntuk sebarang pertanyaan lanjut, sila hubungi:\nEmel: recruitment@ecrl.com.my\nTel: 03 6411 5800\n\n#EastCoastRailLink\n#LaluanRelPantaiTimur\n#ECRL\n#JawatanKosong",
+            "id": "2967",
+            "date": "2026-04-21 10:02:40+00:00"
+        },
+        {
+            "channel_link": "https://t.me/ecentral",
+            "original_text": "IKLAN TAWARAN JAWATAN PERSONEL MYSTEP N9\n\nDimaklumkan bahawa Bahagian Pentadbiran dan Kemudahan, Jabatan Pendaftar UKM ingin mempelawa sesiapa yang berminat dan berkelayakan bagi jawatan Personal Mystep N9.\n\nPermohonan boleh dibuat melalui qr kod seperti di lampiran.",
+            "id": "2968",
+            "date": "2026-04-21 10:03:07+00:00"
+        },
+        {
+            "channel_link": "https://t.me/ecentral",
+            "original_text": "\ud835\udde0\ud835\uddd4\ud835\uddde\ud835\udddf\ud835\udde8\ud835\udde0\ud835\uddd4\ud835\udde1 \ud835\udde3\ud835\uddd8\ud835\udde1\ud835\udde7\ud835\udddc\ud835\udde1\ud835\uddda \ud835\uddd5\ud835\udde8\ud835\uddd4\ud835\udde7 \ud835\udddc\ud835\uddd5\ud835\udde8 \ud835\uddd5\ud835\uddd4\ud835\udde3\ud835\uddd4 \ud835\uddd7\ud835\udddc \ud835\udde1\ud835\uddd8\ud835\uddda\ud835\uddd8\ud835\udde5\ud835\udddc \ud835\udddd\ud835\udde2\ud835\udddb\ud835\udde2\ud835\udde5 !\n\ud835\udde3\ud835\uddf2\ud835\uddff\ud835\uddfa\ud835\uddfc\ud835\uddf5\ud835\uddfc\ud835\uddfb\ud835\uddee\ud835\uddfb \ud835\uddf8\ud835\uddf2\ud835\uddfa\ud835\uddee\ud835\ude00\ud835\ude02\ud835\uddf8\ud835\uddee\ud835\uddfb \ud835\udde0\ud835\ude02\ud835\uddff\ud835\uddf6\ud835\uddf1 \ud835\uddd7\ud835\uddee\ud835\uddff\ud835\uddf7\ud835\uddee\ud835\uddf5 \ud835\udde6\ud835\uddee\ud835\ude01\ud835\ude02 & \ud835\udde7\ud835\uddee\ud835\uddf1\ud835\uddf6\ud835\uddf8\ud835\uddee \ud835\uddd4\ud835\uddf4\ud835\uddee\ud835\uddfa\ud835\uddee \ud835\udddd\ud835\uddfc\ud835\uddf5\ud835\uddfc\ud835\uddff (\ud835\udde7\ud835\uddd4\ud835\udddd) \ud835\uddef\ud835\uddee\ud835\uddf4\ud835\uddf6 \ud835\ude00\ud835\uddf2\ud835\ude00\ud835\uddf6 \ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\ude00\ud835\uddf2\ud835\uddf8\ud835\uddfc\ud835\uddf9\ud835\uddee\ud835\uddf5\ud835\uddee\ud835\uddfb \ud835\udde7\ud835\uddee\ud835\uddf5\ud835\ude02\ud835\uddfb \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff3 \ud835\uddf8\ud835\uddf6\ud835\uddfb\ud835\uddf6 \ud835\uddf1\ud835\uddf6\ud835\uddef\ud835\ude02\ud835\uddf8\ud835\uddee! \n\n\ud83d\uddd3\ufe0f Tarikh Permohonan: \ud83d\udccc 01 Mei 2026 hingga 31 Julai 2026\n\ud83d\udcda Kelayakan Umur Murid: (Kohort)\n\u2705 Darjah Satu: Kanak-kanak warganegara Malaysia berumur  7 Tahun (6+)\n(Lahir: 02 Januari 2020 \u2013 01 Januari 2021)\n\u2705 Tadika Agama Johor (TAJ): Kanak-kanak warganegara Malaysia berumur 6 Tahun (5+)\n(Lahir: 02 Januari 2021 \u2013 01 Januari 2022)\n\n\ud83d\udccd Cara Memohon: \n\ud835\udc01\ud835\udc28\ud835\udc2b\ud835\udc1a\ud835\udc27\ud835\udc20 \ud835\udc29\ud835\udc1e\ud835\udc2b\ud835\udc26\ud835\udc28\ud835\udc21\ud835\udc28\ud835\udc27\ud835\udc1a\ud835\udc27 \ud835\udc1b\ud835\udc28\ud835\udc25\ud835\udc1e\ud835\udc21 \ud835\udc1d\ud835\udc22\ud835\udc1d\ud835\udc1a\ud835\udc29\ud835\udc1a\ud835\udc2d\ud835\udc22 \ud835\udc1d\ud835\udc22 \ud835\udc12\ud835\udc1e\ud835\udc24\ud835\udc28\ud835\udc25\ud835\udc1a\ud835\udc21-\ud835\udc12\ud835\udc1e\ud835\udc24\ud835\udc28\ud835\udc25\ud835\udc1a\ud835\udc21 \ud835\udc00\ud835\udc20\ud835\udc1a\ud835\udc26\ud835\udc1a \ud835\udc0a\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc23\ud835\udc1a\ud835\udc1a\ud835\udc27 \ud835\udc09\ud835\udc28\ud835\udc21\ud835\udc28\ud835\udc2b \ud835\udc1b\ud835\udc1e\ud835\udc2b\ud835\udc21\ud835\udc1a\ud835\udc26\ud835\udc29\ud835\udc22\ud835\udc2b\ud835\udc1a\ud835\udc27\n\n\ud83d\udca1 Jangan lepaskan peluang untuk memberikan pendidikan agama terbaik buat anak-anak anda \ud83d\udc96\n\ud83d\udcf2 Sebarang pertanyaan, boleh hubungi sekolah agama berdekatan atau pihak berkenaan.\n\ud83d\udd01 Kongsikan makluman ini kepada rakan & keluarga supaya lebih ramai mendapat manfaat!",
+            "id": "2969",
+            "date": "2026-04-21 10:03:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/ecentral",
+            "original_text": "Melalui SIDDIK, Zakat Selangor sediakan Sumbangan Pendidikan RM100 untuk anak-anak pengeluar zakat yang masih bersekolah (7\u201317 tahun).\n\nKecil pada angka, tapi besar pada makna.  Boleh jadi duit buku, alat tulis, atau sekadar meringankan beban permulaan sekolah.\n\nSyarat pun mudah:\n\u2714 Pengeluar zakat Zakat Selangor\n\u2714 Bayaran zakat RM500 \u2013 RM5,000 setahun\n\n\ud83d\udcc5 Permohonan dibuka sekarang hingga 31 Mei 2026\nRujuk : https://ecentral.my/siddik/",
+            "id": "2970",
+            "date": "2026-04-21 10:04:05+00:00"
+        },
+        {
+            "channel_link": "https://t.me/ecentral",
+            "original_text": "Rupanya masih ramai tak tahu tentang TH Khairat Tabung Haji. \nBayar RM28 je setahun, kalau meninggal dunia - waris terima RM12,000. \n\nBoleh register online je melalui THiJARI\ud83d\udc47\ud83c\udffb\nhttps://ecentral.my/khairat-kematian-tabung-haji/",
+            "id": "2971",
+            "date": "2026-04-21 10:17:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/ecentral",
+            "original_text": "\ud83d\udd3b TERKINI : Harga petrol & diesel TURUN minggu ni! \n\nPenetapan harga runcit petrol dan diesel bagi tempoh 23 April hingga 29 April 2026 adalah seperti berikut:\n\u2b07\ufe0f RON95: RM3.87/liter - turun 15 sen\n\u2b07\ufe0f RON97 : RM4.85/liter - turun 25 sen\n\u2b07\ufe0f DIESEL: RM5.12/liter (Semenanjung Malaysia) turun 85 sen!\nhttps://ecentral.my/harga-minyak-petrol/",
+            "id": "2972",
+            "date": "2026-04-22 11:25:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/ecentral",
+            "original_text": "Nak gambar rasmi pemimpin negara secara PERCUMA? \ud83c\uddf2\ud83c\uddfe\n\nMudah je, korang pergi ke mana-mana Jabatan Penerangan Malaysia atau Pejabat Penerangan Daerah seluruh negara sekarang. Stok adalah terhad!\n\n\u2705 KDYMM Seri Paduka Baginda Yang di-Pertuan Agong\n\u2705 KDYMM Seri Paduka Baginda Raja Permaisuri Agong\n\u2705 YAB Perdana Menteri\n\nSumber: Jabatan Penerangan Malaysia",
+            "id": "2973",
+            "date": "2026-04-23 04:43:19+00:00"
+        },
+        {
+            "channel_link": "https://t.me/ecentral",
+            "original_text": "[INFOGRAFIK] Pertindihan Hari Kelepasan bagi Hari Wesak, Hari Keputeraan yang di-Pertuan Agong dan Hari Gawai 2026.\n\n\u2705 Khusus untuk SEKTOR SWASTA sahaja\n\u2705 Hari rehat adalah pada hari Ahad\n\u2705 Hari Wesak & Hari Gawai tersenarai dalam Cuti Kelepasan Am syarikat \n\nRujuk kenyatan media :\nhttps://ecentral.my/pertindihan-cuti-wesak/",
+            "id": "2974",
+            "date": "2026-04-23 05:07:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/amanzmy",
+            "original_text": "TNG eWallet Hentikan Sokongan Kad Debit Untuk Auto Reload dan Quick Payment Bermula 13 Mei\n\nhttps://cms.amanz.my/2026562726/",
+            "id": "54628",
+            "date": "2026-04-30 08:05:22+00:00"
+        },
+        {
+            "channel_link": "https://t.me/amanzmy",
+            "original_text": "Illegear Core 15, 15 XTREME Dan 18 XTREME Dilancarkan Di Malaysia Dengan Harga Bermula RM5599\n\nhttps://cms.amanz.my/2026562733/",
+            "id": "54629",
+            "date": "2026-04-30 08:15:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/amanzmy",
+            "original_text": "Spesifikasi Tensor G6 Tertiris Dengan CPU Mantap Tetapi GPU Murung\n\nhttps://cms.amanz.my/2026562738/",
+            "id": "54630",
+            "date": "2026-04-30 08:22:08+00:00"
+        },
+        {
+            "channel_link": "https://t.me/amanzmy",
+            "original_text": "Sony Menjelaskan Isu DRM 30 Hari Pada Permainan PlayStation\n\nhttps://cms.amanz.my/2026562752/",
+            "id": "54631",
+            "date": "2026-04-30 08:35:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/amanzmy",
+            "original_text": "Keuntungan Samsung Meningkat 750% Pada Q1 2026 Kerana AI\n\nhttps://cms.amanz.my/2026562755/",
+            "id": "54632",
+            "date": "2026-04-30 08:53:26+00:00"
+        },
+        {
+            "channel_link": "https://t.me/amanzmy",
+            "original_text": "Langganan Perkhidmatan Google Mencapai 350 Juta Pada Suku Pertama 2026 Didorong YouTube Premium Dan Google One\n\nhttps://cms.amanz.my/2026562715/",
+            "id": "54633",
+            "date": "2026-04-30 08:56:35+00:00"
+        },
+        {
+            "channel_link": "https://t.me/amanzmy",
+            "original_text": "OnePlus Pad 4 Dilancarkan \u2013 Cip Snapdragon 8 Elite Gen 5 Dan Bateri 13380mAh\n\nhttps://cms.amanz.my/2026562761/",
+            "id": "54634",
+            "date": "2026-04-30 09:28:15+00:00"
+        },
+        {
+            "channel_link": "https://t.me/amanzmy",
+            "original_text": "Fahmi: Sesi Libat Urus Pelaksanaan eKYC Untuk Platform Media Sosial Hampir Selesai\n\nhttps://cms.amanz.my/2026562769/",
+            "id": "54635",
+            "date": "2026-04-30 10:12:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/amanzmy",
+            "original_text": "Dari Penyedia Infrastruktur & Peranti Telekomunikasi, Huawei Terus Menawarkan Solusi Tenaga Solar Untuk Malaysia\n\nhttps://cms.amanz.my/2026562780/",
+            "id": "54636",
+            "date": "2026-04-30 10:37:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/amanzmy",
+            "original_text": "Lenovo Memperkenalkan Dua Komputer Riba Baru Yang Dikuasakan Cip Intel Panther Lake\n\nhttps://cms.amanz.my/2026562768/",
+            "id": "54637",
+            "date": "2026-04-30 10:57:54+00:00"
+        },
+        {
+            "channel_link": "https://t.me/banknegaramalaysia",
+            "original_text": "Suara belia membentuk masa hadapan. Bank Negara Malaysia bertemu dengan para pelajar universiti tempatan menerusi dialog tahunan bersama belia untuk berkongsi idea dan perspektif serta bertukar pandangan.\n\n\u2014\n\nYouth voices help shape the future. Bank Negara Malaysia brought together local university students for the annual dialogue with youth, creating a space to share ideas, perspectives and meaningful conversations.\n\n#BNMAR2025 #BNMEMR2025 #BNMFSR2025",
+            "id": "4287",
+            "date": "2026-04-29 10:14:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/banknegaramalaysia",
+            "original_text": "Mangga Harumanis manis di lidah  \ud83e\udd6d. Scam pahit sampai ke hati.\nBerhati-hati dengan tawaran yang memerlukan anda memuat turun \u2019aplikasi pembayaran\u2019 kerana ini mungkin fail APK berbahaya untuk mencuri maklumat anda.\n___\n\nMangga Harumanis is sweet \ud83e\udd6d. Scams are not. \nBe cautious of deals that require downloading \u2018payment apps\u2019 \u2014 they could be malicious APKs to steal your information. \n\n#BNMAmaranScam #JanganKenaScam #ScamAlert #SoalSekatSebar #AndaLebihBijak",
+            "id": "4299",
+            "date": "2026-04-30 08:57:37+00:00"
+        },
+        {
+            "channel_link": "https://t.me/mmprotrust",
+            "original_text": "\ud83c\udf0d\ud83d\udcb5#XRP #Crypto\n\nRipple has expanded its **Ripple Payments** platform into a full-scale **fiat + stablecoin infrastructure** \u2014 transforming it into a unified enterprise-grade financial network \ud83d\ude80\n\nBusinesses can now collect, hold, convert and send payments in both traditional currencies and stablecoins \u2014 all within one regulated system \ud83c\udfe6\ud83d\udd10\n\nThe platform operates across **60+ global markets** \ud83c\udf0e and has processed over **$100B in total transaction volume**, reinforcing Ripple\u2019s position as a major institutional crypto payments provider \ud83d\udcca\n\nBy bridging fiat rails with stablecoin liquidity, Ripple continues pushing crypto deeper into real-world financial infrastructure \ud83e\udd1d\ud83d\udcbc\n\n\u2714\ufe0f Would you like to purchase shares in this company?\nSubmit your request on our website at **mmprotrust.com**",
+            "id": "388",
+            "date": "2026-03-04 16:16:53+00:00"
+        },
+        {
+            "channel_link": "https://t.me/mmprotrust",
+            "original_text": "\u26a1\ufe0f \ud83c\udfe6  #Kraken #Crypto #Payments\n\n**Kraken becomes the first crypto firm to gain access to the U.S. Federal Reserve\u2019s core payments system **\ud83c\uddfa\ud83c\uddf8\n\nKraken Financial has secured a **Federal Reserve master account** \u2014 a historic milestone for the digital asset industry \ud83d\ude80\n\nThis means Kraken can now move U.S. dollar transactions directly through the Fed\u2019s core banking infrastructure \ud83d\udcb5 \u2014 the same rails used by traditional banks \u2014 without relying on intermediary institutions.\n\nDirect access to Fedwire strengthens Kraken\u2019s institutional position, enabling faster settlements, deeper liquidity \ud83d\udcb0 and enhanced operational efficiency for enterprise and large-scale clients.\n\nThis development marks a powerful shift: crypto infrastructure is no longer operating alongside the banking system \u2014 it is integrating into it \ud83d\udd17\ud83c\udf0d\n\n\u2714\ufe0f Would you like to purchase shares in this company?\nSubmit your request on our website at **mmprotrust.com**",
+            "id": "389",
+            "date": "2026-03-05 12:29:58+00:00"
+        },
+        {
+            "channel_link": "https://t.me/mmprotrust",
+            "original_text": "\ud83d\udcca\ud83c\udf10 #RWA #Nasdaq #Kraken\n\nNasdaq and Kraken are collaborating to develop infrastructure for **tokenized equities**, marking another step in the convergence of traditional capital markets \ud83c\udfe6 and blockchain technology.\n\nThe initiative focuses on connecting regulated stock market infrastructure with decentralized blockchain networks \ud83d\udd17. Through Kraken\u2019s **xStocks framework**, tokenized shares of public companies could move between institutional financial systems and on-chain ecosystems while maintaining shareholder rights \ud83d\udcd1 and regulatory standards.\n\nTokenization has the potential to transform capital markets by enabling **programmable securities **\u2699\ufe0f**, faster settlements **\u26a1**, and broader global investor access **\ud83c\udf0d. It also opens the door for traditional equities to interact with decentralized finance infrastructure while preserving the governance structure of listed companies.\n\nThis collaboration reflects a broader trend: major financial institutions are actively exploring **blockchain-based market infrastructure **\ud83d\ude80, accelerating the integration of digital assets and traditional finance.\n\n\u2714\ufe0f Would you like to purchase shares in this company?\nSubmit your request on our website at **mmprotrust.com**",
+            "id": "390",
+            "date": "2026-03-11 10:23:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/mmprotrust",
+            "original_text": "\ud83d\udcf0 **MAIN POST (ENGLISH, MMPro Trust STYLE)**\n\n\ud83c\udde7\ud83c\uddf7 #XRP #Ripple #Crypto\n\nRipple is making a major expansion into Brazil \u2014 launching a **full-scale crypto and payments platform** for banks and fintech companies across the region  \ud83c\udf0d\n\nThe new infrastructure will enable **cross-border payments **\ud83d\udcb8 **digital asset custody **\ud83d\udd12 **and crypto treasury management** \u2014 positioning Ripple as a key provider of financial rails for institutional players.\n\nAt the same time, Ripple has applied for a **VASP license with Brazil\u2019s central bank **\ud83c\udfe6 signaling a strong commitment to regulatory compliance and long-term presence in one of Latin America\u2019s largest markets.\n\nThe company is already collaborating with local financial institutions, including Banco Genial and Braza Bank \ud83e\udd1d \u2014 accelerating adoption and integration within the regional financial ecosystem.\n\nThis move highlights a broader trend: **crypto infrastructure firms are scaling globally through regulated, bank-focused solutions **\ud83d\ude80\n\n\u2714\ufe0f Would you like to purchase shares in this company?\nSubmit your request on our website at **mmprotrust.com**",
+            "id": "391",
+            "date": "2026-03-17 16:05:21+00:00"
+        },
+        {
+            "channel_link": "https://t.me/mmprotrust",
+            "original_text": "\ud83c\uddf8\ud83c\uddec #XRP #RLUSD #Crypto\n\nRipple is leveraging the **Monetary Authority of Singapore (MAS) regulatory sandbox** to test a **stablecoin-powered trade finance system**, marking a new step in institutional blockchain adoption \ud83c\udf0d\n\nThe initiative focuses on using **RLUSD stablecoin** to streamline trade finance operations \u2014 enabling faster settlements \u26a1improved liquidity \ud83d\udcb5and more efficient cross-border transactions for enterprises and financial institutions.\n\nBy operating within MAS\u2019s regulatory sandbox \ud83c\udfe6 Ripple is able to test and refine its infrastructure under real regulatory oversight \u2014 accelerating the path toward compliant large-scale deployment.\n\nThis development highlights a key shift: **stablecoins are evolving beyond payments into core financial infrastructure**, including trade finance and global commerce \ud83c\udf10\n\n\u2714\ufe0f Would you like to purchase shares in this company?\nSubmit your request on our website at **mmprotrust.com**",
+            "id": "392",
+            "date": "2026-03-25 14:17:06+00:00"
+        },
+        {
+            "channel_link": "https://t.me/mmprotrust",
+            "original_text": "\ud83c\udded\ud83c\uddf0 #RWA #Stablecoins #HKMA\n\nHong Kong is taking a major step in regulated digital finance \u2014 the **Hong Kong Monetary Authority (HKMA)** has granted its first **stablecoin issuer licenses**, setting a new benchmark for institutional adoption \ud83d\ude80\n\nAmong the approved entities are **Anchorpoint** \u2014 a joint venture involving Standard Chartered, HKT, and **Animoca Brands** \u2014 and global banking giant **HSBC** \ud83c\udfe6\n\nThe licensed issuers are preparing to launch **HKD-referenced stablecoins**, expanding the role of digital currencies within regulated financial infrastructure across Asia \ud83c\udf0f\n\nOut of dozens of applicants, only a select few were approved \u2014 highlighting HKMA\u2019s focus on **strict regulatory standards, compliance, and long-term market stability **\n\nThis move signals a broader shift: **stablecoins are becoming a core layer of institutional financial systems**, bridging traditional banking with blockchain-based assets \ud83d\udd17\n\n\u2714\ufe0f Would you like to purchase shares in this company?\nSubmit your request on our website at **mmprotrust.com**",
+            "id": "393",
+            "date": "2026-04-10 14:53:23+00:00"
+        },
+        {
+            "channel_link": "https://t.me/mmprotrust",
+            "original_text": "\ud83c\udde9\ud83c\uddea #Kraken #Crypto #Investing\n\nDeutsche B\u00f6rse has made a **$200M strategic investment into Kraken**, marking one of the largest moves by traditional financial institutions into the crypto sector \ud83d\udcb5\n\nThis investment highlights growing confidence from legacy market infrastructure players \ud83c\udfe6in the long-term potential of digital asset platforms and trading ecosystems.\n\nBy backing Kraken \u26a1\ufe0f Deutsche B\u00f6rse is positioning itself closer to the **next generation of financial markets**, where crypto exchanges and traditional exchanges increasingly converge \ud83d\udd17\n\nThe deal reflects a broader trend: **institutional capital is actively entering crypto infrastructure**, not just assets \u2014 focusing on platforms, liquidity, and market rails \ud83d\ude80\n\n\u2714\ufe0f Would you like to purchase shares in this company?\nSubmit your request on our website at **mmprotrust.com**",
+            "id": "394",
+            "date": "2026-04-14 14:11:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/mmprotrust",
+            "original_text": "\ud83d\uddfd#Kraken #IPO #Crypto\n\n\u26a1\ufe0fKraken has **confidentially filed for an IPO**, signaling a major step toward becoming a publicly listed company \ud83d\udcc8\n\nA confidential filing allows the company to prepare its offering privately \u2014 refining financials, structure, and strategy before entering public markets. This approach is commonly used by large firms aiming for a **controlled and strategic market entry **\ud83c\udfe6\n\n\u25b6\ufe0fFor Kraken, this move reflects growing maturity in the crypto sector, where leading exchanges are positioning themselves within **traditional capital markets infrastructure **\n\n\u25b6\ufe0fIf completed, the IPO could mark one of the most significant public listings in the digital asset space \u2014 reinforcing the shift of crypto platforms into regulated, institutional-grade financial entities \n\n\u2714\ufe0f Would you like to purchase shares in this company?\nSubmit your request on our website at **mmprotrust.com**",
+            "id": "395",
+            "date": "2026-04-15 09:55:31+00:00"
+        },
+        {
+            "channel_link": "https://t.me/mmprotrust",
+            "original_text": "\ud83c\uddf0\ud83c\uddf7 #XRP #RWA #Crypto\n\nRipple is expanding into South Korea through a collaboration with **Kyobo**, focusing on **settlement infrastructure for tokenized bonds** \ud83d\udcca\n\nThe initiative aims to modernize fixed income markets by enabling **on-chain settlement, improved transparency \ud83d\udd0d, and faster capital flows \ud83d\udcb0** for bond-related transactions.\n\nBy integrating blockchain into traditional debt instruments, Ripple is helping bridge **real-world assets (RWA)** with digital financial infrastructure \u2014 unlocking new efficiencies for institutional players \ud83c\udfe6\n\nThis move highlights a key trend: **tokenization is moving beyond equities and into fixed income markets**, one of the largest segments in global finance \ud83c\udf0d\n\n\u2714\ufe0fWould you like to purchase shares in this company?\nSubmit your request on our website at **mmprotrust.com**",
+            "id": "396",
+            "date": "2026-04-17 15:11:12+00:00"
+        },
+        {
+            "channel_link": "https://t.me/mmprotrust",
+            "original_text": "\ud83e\udd91 #Kraken #M&A #Crypto\n\nKraken is expanding its derivatives footprint \u2014 the company is acquiring **Bitnomial** in a deal valued at **$550M** \ud83d\udcb0\n\nThe acquisition strengthens Kraken\u2019s position in the **regulated derivatives market**, adding infrastructure for futures and advanced trading products \ud83d\udcca\n\nBy integrating Bitnomial, Kraken moves closer to becoming a **full-scale institutional trading platform**, combining spot, derivatives, and deep liquidity under one ecosystem \u2699\ufe0f\n\nThis deal reflects a broader shift: leading crypto exchanges are scaling through **strategic acquisitions**, building vertically integrated financial infrastructure \n\n\u2714\ufe0f Would you like to purchase shares in this company?\nSubmit your request on our website at **mmprotrust.com**",
+            "id": "397",
+            "date": "2026-04-20 16:38:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/myedgeprop",
+            "original_text": "Kuala Lumpur residential market hits five-year high in 4Q\u2014 JLL \n[(Read more)](https://www.edgeprop.my/content/1915987/kuala-lumpur-residential-market-hits-five-year-high-4q-%E2%80%94-jll)",
+            "id": "11831",
+            "date": "2026-04-29 09:05:51+00:00"
+        },
+        {
+            "channel_link": "https://t.me/myedgeprop",
+            "original_text": "KHPT Holdingsto lease 118,506 sq ft Puchong factory for 10 years in RM14.6m deal\n[(Read more)](https://www.edgeprop.my/content/1915989/khpt-holdings-lease-118506-sq-ft-puchong-factory-10-years-rm146m-deal)",
+            "id": "11832",
+            "date": "2026-04-29 10:34:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/myedgeprop",
+            "original_text": "UOA REIT unitholders vote down RM200m acquisition of three commercial properties\n[(Read more)](https://www.edgeprop.my/content/1915992/uoa-reit-unitholders-vote-down-rm200m-acquisition-three-commercial-properties)",
+            "id": "11833",
+            "date": "2026-04-29 12:30:52+00:00"
+        },
+        {
+            "channel_link": "https://t.me/myedgeprop",
+            "original_text": "Axis-REIT 1Q net income rises 8.3% to RM49.9m on larger portfolio, lower financing costs\n[(Read more)](https://www.edgeprop.my/content/1915993/axis-reit-1q-net-income-rises-83-rm499m-larger-portfolio-lower-financing-costs)",
+            "id": "11834",
+            "date": "2026-04-29 12:59:41+00:00"
+        },
+        {
+            "channel_link": "https://t.me/myedgeprop",
+            "original_text": "Polygon Properties marks 9th anniversary with awards night, Playbook launch \n[(Read more)](https://www.edgeprop.my/content/1915994/polygon-properties-marks-9th-anniversary-awards-night-playbook-launch)",
+            "id": "11835",
+            "date": "2026-04-29 13:33:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/myedgeprop",
+            "original_text": "Jalan Apas, 8 Mile, Sabah agricultural land sold for RM3.5m | DONE DEAL\n[(Read more)](https://www.edgeprop.my/content/1915990/jalan-apas-8-mile-sabah-agricultural-land-sold-rm35m-done-deal)",
+            "id": "11836",
+            "date": "2026-04-30 04:14:43+00:00"
+        },
+        {
+            "channel_link": "https://t.me/myedgeprop",
+            "original_text": "Bina Puri extends financial year to 23 months amid restructuring\n[(Read more)](https://www.edgeprop.my/content/1915995/bina-puri-extends-financial-year-23-months-amid-restructuring)",
+            "id": "11837",
+            "date": "2026-04-30 05:07:01+00:00"
+        },
+        {
+            "channel_link": "https://t.me/myedgeprop",
+            "original_text": "IGB REITs report higher 1Q earnings as mall assets outshine offices; both declare distributions\n[(Read more)](https://www.edgeprop.my/content/1915997/igb-reits-report-higher-1q-earnings-mall-assets-outshine-offices-both-declare-distributions)",
+            "id": "11838",
+            "date": "2026-04-30 05:39:24+00:00"
+        },
+        {
+            "channel_link": "https://t.me/myedgeprop",
+            "original_text": "DPS Resources bets on RM4.36b AGI data centre to unlock Melaka landbank acquired for RM45.6m just three years ago\n[(Read more)](https://www.edgeprop.my/content/1915999/dps-resources-bets-rm436b-agi-data-centre-unlock-melaka-landbank-acquired-rm456m-just-three-years-ago)",
+            "id": "11839",
+            "date": "2026-04-30 08:44:20+00:00"
+        },
+        {
+            "channel_link": "https://t.me/myedgeprop",
+            "original_text": "Rehda RIYI mentors highlight gap between classroom learning, workplace expectations\n[(Read more)](https://www.edgeprop.my/content/1915998/rehda-riyi-mentors-highlight-gap-between-classroom-learning-workplace-expectations)",
+            "id": "11840",
+            "date": "2026-04-30 10:44:05+00:00"
         }
     ]
 }
