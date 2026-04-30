@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T19:02:44.076623",
+    "timestamp": "2026-04-30T21:18:41.525418",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -4830,6 +4830,12 @@
             "original_text": "NEW: SOLANA-BASED CARROT ANNOUNCES IT IS SHUTTING DOWN - \"THIS IS CERTAINLY NOT THE OUTCOME WE WANTED, BUT THE SITUATION WITH THE DRIFT EXPLOIT, HAS PROVEN TO BE CATASTROPHIC FOR OUR CONTINUED OPERATIONS\"",
             "id": "3347",
             "date": "2026-04-30 18:05:42+00:00"
+        },
+        {
+            "channel_link": "https://t.me/DegenerateNews",
+            "original_text": "NEW: U.S. SECRETARY OF WAR PETE HEGSETH SAYS HE IS A \u201cLONG ENTHUSIAST\u201d OF BITCOIN AND AGREES IT IS A TOOL TO PROJECT POWER",
+            "id": "3348",
+            "date": "2026-04-30 20:50:58+00:00"
         }
     ]
 }
