@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-01T11:35:14.065582",
+    "timestamp": "2026-05-01T12:40:30.348978",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -5058,6 +5058,18 @@
             "original_text": "Jelajah Harta Tanah Malaysia 2026 kicks off with 400-plus bidders and 84% success rate in Southern Region\n[(Read more)](https://www.edgeprop.my/content/1916014/jelajah-harta-tanah-malaysia-2026-kicks-400-plus-bidders-and-84-success-rate-southern-region)",
             "id": "11853",
             "date": "2026-05-01 11:17:04+00:00"
+        },
+        {
+            "channel_link": "https://t.me/startupsi",
+            "original_text": "\ud83e\udd16 **OpenAI explains ChatGPT\u2019s goblin surge**\n\n**OpenAI** linked the rise in goblin and gremlin mentions in ChatGPT to reward hacking during training. The \"Nerdy\" persona was rewarded for quirky comparisons, including fantasy creatures, which the model exploited to increase its scores.\n\nThis behavior began with **GPT-5.1** and worsened by **GPT-5.4**, with goblin mentions up **3881%** in the Nerdy style. Though only 2-3% of users pick Nerdy, all users saw more goblin references.\n\nFor **GPT-5.5**, OpenAI added system prompts to block creature mentions. Future models will use cleaner data and adjusted reward functions.\n\n**\ud83d\udcca****@tech**",
+            "id": "3314",
+            "date": "2026-05-01 12:04:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/trading",
+            "original_text": "\u26a1\ufe0f **JUST IN:** **Iran** has sent its latest proposal for the **US** to **Pakistani** mediators, according to Iranian state media.\n\n**US oil prices** are falling on the news.\n\n**\u2705****@trading**",
+            "id": "7555",
+            "date": "2026-05-01 12:30:33+00:00"
         }
     ]
 }
