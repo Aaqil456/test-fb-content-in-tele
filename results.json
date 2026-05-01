@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-01T16:10:50.603047",
+    "timestamp": "2026-05-01T17:14:09.003498",
     "messages": [
         {
             "channel_link": "https://t.me/PumpDumpAlert",
@@ -5106,6 +5106,18 @@
             "original_text": "\u26a1\ufe0f **JUST IN:** **Trump** announces raising tariffs on cars and trucks from the **EU** to **25%**.\n\nHe states the increase is because the **EU** is \"not complying with our fully agreed to trade deal.\"\n\n**\u2705****@trading**",
             "id": "7557",
             "date": "2026-05-01 16:09:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/trading",
+            "original_text": "\u26a1\ufe0f **JUST IN:** **Trump** expressed dissatisfaction with the latest proposal on Iran.\n\n**\u2705****@trading**",
+            "id": "7558",
+            "date": "2026-05-01 16:30:32+00:00"
+        },
+        {
+            "channel_link": "https://t.me/trading",
+            "original_text": "\u26a1\ufe0f **JUST IN:** **Trump** on Iran options says either blast them away or make a deal.\n\n**\u2705****@trading**",
+            "id": "7559",
+            "date": "2026-05-01 16:37:39+00:00"
         }
     ]
 }
