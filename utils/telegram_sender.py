@@ -50,7 +50,7 @@ def _split_for_telegram_raw(text: str, limit: int) -> list[str]:
 def send_telegram_message_html(translated_text: str, sumber: str = None):
     full_text = translated_text or ""
     if sumber:
-        full_text += f"\n\nsumber asal dari: {sumber}"
+        full_text += f"\n\n Sumber: {sumber}"
     
     raw_chunks = _split_for_telegram_raw(full_text, MESSAGE_LIMIT)
     results = []
