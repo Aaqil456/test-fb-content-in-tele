@@ -63,7 +63,7 @@ def send_telegram_message_html(translated_text: str, sumber: str = None):
 def send_photo_to_telegram_channel(image_path: str, translated_caption: str, sumber: str = None):
     raw_caption = translated_caption or ""
     if sumber:
-        raw_caption += f"\n\nsumber asal dari: {sumber}"
+        raw_caption += f"\n\n Sumber: {sumber}"
     
     head_raw = raw_caption[:CAPTION_LIMIT]
     tail_raw = raw_caption[CAPTION_LIMIT:]
@@ -82,7 +82,7 @@ def send_media_group_to_telegram(image_paths: list[str], translated_caption: str
 
     raw_caption = translated_caption or ""
     if sumber:
-        raw_caption += f"\n\nsumber asal dari: {sumber}"
+        raw_caption += f"\n\n Sumber: {sumber}"
     
     head_raw = raw_caption[:CAPTION_LIMIT]
     tail_raw = raw_caption[CAPTION_LIMIT:]
